@@ -1,6 +1,6 @@
 # GLP-1 drugs and psychiatric adverse event reports
 
-Status: pipeline written and tested on fixture data (November 2026). Results, dashboard and findings are not in yet.
+Status: first full run 3 November 2026 (FAERS 2019 Q1 to 2026 Q3, 11,186,330 cases; Canada Vigilance to 30 June 2026). All positive controls passed. Findings are being checked; the dashboard is not built yet.
 
 ## Question
 
@@ -24,7 +24,7 @@ FAERS quarterly ASCII files, 2019 Q1 to the latest published quarter, and the Ca
 
 The pipeline is adapted from Safety Signal Explorer: FAERS de-duplication by latest case version, removal of FDA-deleted cases, primary and secondary suspect drugs only, whole-word drug matching on active ingredient and brand name, and ROR, PRR (Evans criteria) and IC025 from 2 x 2 tables.
 
-Exposures: semaglutide, liraglutide and tirzepatide, each split by the indication on the drug row (type 2 diabetes, weight management, other, unknown; the brand decides when no indication is given), compounded semaglutide and tirzepatide, and the GLP-1 class (adding dulaglutide, exenatide and lixisenatide).
+Exposures: semaglutide, liraglutide and tirzepatide, each split by the indication on the drug row (type 2 diabetes, weight management, other, unknown; the brand decides when no indication is given), compounded semaglutide and tirzepatide (no FAERS drug names in the first run said "compounded", so this subgroup is empty), and the GLP-1 class (adding dulaglutide, exenatide and lixisenatide).
 
 Backgrounds: all other reports; SGLT2 inhibitors (empagliflozin, dapagliflozin, canagliflozin, ertugliflozin, bexagliflozin); and SGLT2 inhibitors given for type 2 diabetes only, since empagliflozin and dapagliflozin are also used for heart failure and kidney disease. SGLT2 inhibitors are the active comparator because they treat the same disease, came to market in a similar period and have no known psychiatric effect.
 
@@ -52,3 +52,5 @@ Steps: `01_download_faers.py` (only quarters not already in `~/ssx_data/raw/faer
 ## Limitations
 
 Spontaneous reports show association, not incidence or causation, and there is no count of people exposed. People treated for obesity have higher rates of depression than people treated for diabetes, so the weight-management subgroups are confounded by indication; the SGLT2 comparator is a diabetes population. Media coverage from July 2023 can raise reporting by itself. Compounded products sold during the 2022 to 2025 shortages may be under-reported or named inconsistently. The term groups and indication rules approximate MedDRA.
+
+One of the four negative controls, Sunburn, was flagged for GLP-1 drugs (155 reports, ROR 1.70, 95% CI 1.44 to 1.99). The terms most often reported with it are sensitive skin (22 reports), pain of skin (15), allodynia (12), paraesthesia (11) and hyperaesthesia (6), so these look like reports of altered skin sensation coded as Sunburn. New Zealand's Medsafe (Prescriber Update, March 2026) lists altered skin sensations, including dysaesthesia, for semaglutide (2.1% of Wegovy patients in trials against 1.2% on placebo) and tirzepatide. The control was kept, since it was chosen by a fixed rule before results were read.

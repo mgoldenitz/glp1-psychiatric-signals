@@ -71,8 +71,13 @@ def pick_negatives(sig):
     s = sig[(sig["exposure"] == CLASS_EXPOSURE) & (sig["background"] == ALL)]
     n = dict(zip(s["pt"].str.upper(), s["a"]))
     chosen = [t for t in NEGATIVE_CANDIDATES if n.get(t.upper(), 0) >= MIN_NEGATIVE_REPORTS][:N_NEGATIVE]
-    return [(CLASS_EXPOSURE, ALL, [t], False, "Negative", "Negative control (picked by report count rule)")
-            for t in chosen]
+    # The same terms against the SGLT2 background show how far that background
+    # pushes the ROR of an unrelated reaction away from 1 (added 4 November 2026,
+    # after the first run, as a calibration check; not used to pick anything).
+    return ([(CLASS_EXPOSURE, ALL, [t], False, "Negative", "Negative control (picked by report count rule)")
+             for t in chosen]
+            + [(CLASS_EXPOSURE, SGLT2, [t], False, "Negative (SGLT2 calibration)",
+                "Same negative control against the SGLT2 background") for t in chosen])
 
 
 def check(sig, controls, flag="signal_ror"):
@@ -119,11 +124,15 @@ def main():
                    "reports", "ror", "ror_lo"]].to_string(index=False))
 
     n_neg = (res["kind"] == "Negative").sum()
+    cal = res[res["kind"] == "Negative (SGLT2 calibration)"]
+    if len(cal):
+        print(f"\nSGLT2 calibration: negative-control RORs against SGLT2 inhibitors range from "
+              f"{cal['ror'].min():.2f} to {cal['ror'].max():.2f}.")
     if n_neg < N_NEGATIVE:
         print(f"\nOnly {n_neg} negative candidates had {MIN_NEGATIVE_REPORTS}+ reports.")
-    must = res[res["kind"] != "Negative"]
+    must = res[~res["kind"].str.startswith("Negative")]
     fail = must[~must["passed"]]
-    neg_fail = res[(res["kind"] == "Negative") & ~res["passed"]]
+    neg_fail = res[res["kind"].str.startswith("Negative") & ~res["passed"]]
     if len(neg_fail):
         print(f"\nWarning: {len(neg_fail)} negative control(s) flagged; look at them before publishing.")
     if len(fail):
