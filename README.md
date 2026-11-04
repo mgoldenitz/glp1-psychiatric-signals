@@ -4,7 +4,7 @@ Status: first full run 3 November 2026 (FAERS 2019 Q1 to 2026 Q3, 11,186,330 cas
 
 ## Question
 
-Are suicidal thoughts and behaviour, depression or anxiety reported more often than expected for semaglutide (Ozempic, Wegovy, Rybelsus), liraglutide (Victoza, Saxenda) and tirzepatide (Mounjaro, Zepbound), compared with SGLT2 inhibitors and with all other reports, in FDA FAERS and Health Canada's Canada Vigilance database? How much of any difference appears only after July 2023, when EMA began its review and the question reached the news?
+Are suicidal thoughts and behaviour, depression or anxiety reported more often than expected for semaglutide (Ozempic, Wegovy, Rybelsus), liraglutide (Victoza, Saxenda) and tirzepatide (Mounjaro, Zepbound), compared with SGLT2 inhibitors and with all other reports, in FDA FAERS and Health Canada's Canada Vigilance database? Do differences appear after July 2023, when EMA began its review and the question reached the news?
 
 ## Reference results
 
