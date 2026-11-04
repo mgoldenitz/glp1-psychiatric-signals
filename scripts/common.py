@@ -93,9 +93,8 @@ def base_drug(exposure):
 
 
 # Indication groups. GLP-1 drugs are used for type 2 diabetes and for weight
-# management, and people treated for obesity have higher rates of depression
-# than people treated for diabetes, so the GLP-1 reports are split by the
-# indication given on the drug row. When no indication is given, the brand
+# management, and the two patient groups can differ in psychiatric history,
+# so the GLP-1 reports are split by the indication given on the drug row. When no indication is given, the brand
 # decides (Wegovy, Saxenda and Zepbound are the weight-management brands).
 # SGLT2 inhibitors are also split, because empagliflozin and dapagliflozin are
 # approved for heart failure and kidney disease as well as diabetes.
@@ -132,7 +131,7 @@ def indication_group(indi_pt, drugname=None):
 
 
 def is_compounded(drugname):
-    """Compounded semaglutide and tirzepatide were sold widely during the 2022 to 2025 shortages."""
+    """True when the drug name says the product was compounded."""
     return isinstance(drugname, str) and "COMPOUND" in drugname.upper()
 
 

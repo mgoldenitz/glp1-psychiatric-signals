@@ -12,8 +12,7 @@ For each exposure X and reaction R, with report counts:
                                             given for type 2 diabetes
 
 SGLT2 inhibitors are the active comparator: they treat the same disease
-(type 2 diabetes), are newer drugs bought by similar patients, and have no
-known psychiatric effect. FDA's 2026 Sentinel study used the same comparison.
+(type 2 diabetes) and have no known psychiatric effect. FDA's 2026 Sentinel study used the same comparison.
 The comparator backgrounds are only computed for exposures that are not
 SGLT2 inhibitors themselves.
 
