@@ -1,6 +1,6 @@
 # GLP-1 drugs and psychiatric adverse event reports
 
-Status: first full run 3 November 2026 (FAERS 2019 Q1 to 2026 Q3, 11,186,330 cases; Canada Vigilance to 30 June 2026). All positive controls passed. Findings are being checked; the dashboard is not built yet.
+Status: first full run 3 November 2026. Findings below; the Tableau dashboard is not built yet.
 
 ## Question
 
@@ -34,6 +34,26 @@ Notoriety bias: the psychiatric results are repeated for reports first received 
 
 Validation, run before any psychiatric result is read: label reactions as positive controls (nausea, vomiting, decreased appetite, pancreatitis, gallbladder disease and injection site reactions for GLP-1 drugs; ketoacidosis, genital fungal infection and Fournier's gangrene for SGLT2 inhibitors), comparator checks (nausea should be flagged against SGLT2 inhibitors; ketoacidosis should not), and four negative controls picked from a fixed candidate list by a report-count rule.
 
+## Findings
+
+All figures are reporting odds ratios (ROR) with 95% confidence intervals, from the first full run: FAERS 2019 Q1 to 2026 Q3 (13,324,077 report versions, 11,186,330 cases after de-duplication) and Canada Vigilance reports received from 2019 to 30 June 2026 (567,733). FAERS has 90,020 semaglutide, 12,604 liraglutide, 172,597 tirzepatide and 81,554 SGLT2 inhibitor cases.
+
+Validation. All 12 positive controls and both comparator checks behaved as expected; for example, nausea with GLP-1 drugs had an ROR of 4.00 (3.96 to 4.05) against all of FAERS and ketoacidosis with SGLT2 inhibitors 765 (702 to 834). Against SGLT2 inhibitors, three of the four negative controls had RORs of 1.11 to 1.24, none significant, so that background raises the ROR of an unrelated reaction by roughly 10 to 25 percent. The fourth, Sunburn, is discussed under Limitations.
+
+Semaglutide and suicidality. Against SGLT2 inhibitors, the suicidal and self-injurious behaviour group shows no signal in reports first received before July 2023 (ROR 1.10, 0.86 to 1.40; 101 reports) and a signal from July 2023 onward (3.16, 2.67 to 3.73; 894 reports). Semaglutide reports in this group went from 26 in 2023 Q2 to 93 in 2023 Q3, the quarter EMA's review began. Over the same two periods the SGLT2 inhibitors' own ROR for the group against all of FAERS stayed flat (0.39, then 0.34), so the rise is specific to GLP-1 drugs and not a change in FAERS as a whole. The pattern fits stimulated reporting after publicity.
+
+Thoughts, not acts. Suicidal ideation carries the group signal (semaglutide against SGLT2 inhibitors, all years: 6.07, 4.96 to 7.42; 735 reports). Completed suicide does not show one (0.75, 0.53 to 1.06; 58 reports), and suicide attempt is borderline (1.24, 0.91 to 1.70; 93 reports). Against all of FAERS, semaglutide's group ROR is below 1 (0.91, 0.85 to 0.97), because the full database holds many reports for psychiatric drugs.
+
+Tirzepatide. Tirzepatide, which EMA's review did not cover, shows no suicidality signal against SGLT2 inhibitors given for diabetes (1.05, 0.86 to 1.29; 614 reports).
+
+Liraglutide. Liraglutide already had a suicidality signal against SGLT2 inhibitors before July 2023 (2.36, 1.82 to 3.05; 83 reports), led by the weight-management subgroup. One possible reason, not tested here, is that the Saxenda label carried a suicidal behaviour and ideation warning, which diabetes GLP-1 labels did not, until FDA asked for its removal in January 2026.
+
+Depression and anxiety. Semaglutide depression reports are raised against SGLT2 inhibitors even before July 2023 (2.53, 2.10 to 3.03), above the 1.1 to 1.2 range the negative controls give. The two report populations differ: 60% of semaglutide reports are for women against 39% for SGLT2 inhibitors, and physicians filed 20% of pre-July 2023 semaglutide reports against 33% for SGLT2 inhibitors. Reporter type and sex are not adjusted for, so this result is not read as a drug effect.
+
+Canada Vigilance. Semaglutide's suicidality group is raised against all Canadian reports (2.87, 2.24 to 3.69; 64 reports), including before July 2023 (1.75, 1.01 to 3.03; 13 reports). Canada Vigilance has only 2,368 SGLT2 inhibitor reports and 13 of them fall in the suicidality group, so the SGLT2 comparison is too unstable to use for Canada.
+
+These results agree with EMA (April 2024) and FDA (January 2026) in finding no evidence that semaglutide causes suicidal acts. They differ from the WHO database study's ROR of 1.45 against all drugs, which covered reports to August 2023 and a different background database.
+
 ## Running it
 
 In WSL, from the repo folder:
@@ -51,6 +71,6 @@ Steps: `01_download_faers.py` (only quarters not already in `~/ssx_data/raw/faer
 
 ## Limitations
 
-Spontaneous reports show association, not incidence or causation, and there is no count of people exposed. People treated for obesity have higher rates of depression than people treated for diabetes, so the weight-management subgroups are confounded by indication; the SGLT2 comparator is a diabetes population. Media coverage from July 2023 can raise reporting by itself. Compounded products sold during the 2022 to 2025 shortages may be under-reported or named inconsistently. The term groups and indication rules approximate MedDRA.
+Spontaneous reports show association, not incidence or causation, and there is no count of people exposed. Most GLP-1 reports come from consumers (62% of semaglutide reports before July 2023, 80% to 93% of tirzepatide reports), many through manufacturer patient programmes, while SGLT2 inhibitor reports come more often from physicians. People treated for obesity have higher rates of depression than people treated for diabetes, so the weight-management subgroups are confounded by indication; the SGLT2 comparator is a diabetes population. Media coverage from July 2023 can raise reporting by itself. Compounded products sold during the 2022 to 2025 shortages may be under-reported or named inconsistently. The term groups and indication rules approximate MedDRA.
 
 One of the four negative controls, Sunburn, was flagged for GLP-1 drugs (155 reports, ROR 1.70, 95% CI 1.44 to 1.99). The terms most often reported with it are sensitive skin (22 reports), pain of skin (15), allodynia (12), paraesthesia (11) and hyperaesthesia (6), so these look like reports of altered skin sensation coded as Sunburn. New Zealand's Medsafe (Prescriber Update, March 2026) lists altered skin sensations, including dysaesthesia, for semaglutide (2.1% of Wegovy patients in trials against 1.2% on placebo) and tirzepatide. The control was kept, since it was chosen by a fixed rule before results were read.
