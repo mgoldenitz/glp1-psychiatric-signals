@@ -1,0 +1,350 @@
+exposure,outc_cod,reports,outcome
+GLP-1 RA (any),CA,137,Congenital anomaly
+GLP-1 RA (any),DE,3825,Death
+GLP-1 RA (any),DS,3703,Disability
+GLP-1 RA (any),HO,35197,Hospitalization
+GLP-1 RA (any),LT,3935,Life-threatening
+GLP-1 RA (any),OT,68247,Other serious
+GLP-1 RA (any),RI,1224,Required intervention
+SGLT2 inhibitor (any),CA,110,Congenital anomaly
+SGLT2 inhibitor (any),DE,11375,Death
+SGLT2 inhibitor (any),DS,2171,Disability
+SGLT2 inhibitor (any),HO,25926,Hospitalization
+SGLT2 inhibitor (any),LT,5532,Life-threatening
+SGLT2 inhibitor (any),OT,37289,Other serious
+SGLT2 inhibitor (any),RI,517,Required intervention
+canagliflozin,CA,5,Congenital anomaly
+canagliflozin,DE,224,Death
+canagliflozin,DS,490,Disability
+canagliflozin,HO,3011,Hospitalization
+canagliflozin,LT,368,Life-threatening
+canagliflozin,OT,2251,Other serious
+canagliflozin,RI,13,Required intervention
+canagliflozin: heart failure or kidney disease,CA,1,Congenital anomaly
+canagliflozin: heart failure or kidney disease,DE,6,Death
+canagliflozin: heart failure or kidney disease,DS,2,Disability
+canagliflozin: heart failure or kidney disease,HO,20,Hospitalization
+canagliflozin: heart failure or kidney disease,LT,5,Life-threatening
+canagliflozin: heart failure or kidney disease,OT,18,Other serious
+canagliflozin: other,CA,2,Congenital anomaly
+canagliflozin: other,DE,6,Death
+canagliflozin: other,DS,6,Disability
+canagliflozin: other,HO,27,Hospitalization
+canagliflozin: other,LT,15,Life-threatening
+canagliflozin: other,OT,31,Other serious
+canagliflozin: type 2 diabetes,CA,3,Congenital anomaly
+canagliflozin: type 2 diabetes,DE,104,Death
+canagliflozin: type 2 diabetes,DS,253,Disability
+canagliflozin: type 2 diabetes,HO,1795,Hospitalization
+canagliflozin: type 2 diabetes,LT,290,Life-threatening
+canagliflozin: type 2 diabetes,OT,1216,Other serious
+canagliflozin: type 2 diabetes,RI,10,Required intervention
+canagliflozin: unknown,CA,1,Congenital anomaly
+canagliflozin: unknown,DE,114,Death
+canagliflozin: unknown,DS,235,Disability
+canagliflozin: unknown,HO,1192,Hospitalization
+canagliflozin: unknown,LT,68,Life-threatening
+canagliflozin: unknown,OT,1002,Other serious
+canagliflozin: unknown,RI,3,Required intervention
+canagliflozin: weight management,CA,1,Congenital anomaly
+canagliflozin: weight management,DE,2,Death
+canagliflozin: weight management,DS,1,Disability
+canagliflozin: weight management,HO,5,Hospitalization
+canagliflozin: weight management,LT,1,Life-threatening
+canagliflozin: weight management,OT,3,Other serious
+dapagliflozin,CA,91,Congenital anomaly
+dapagliflozin,DE,9431,Death
+dapagliflozin,DS,983,Disability
+dapagliflozin,HO,10517,Hospitalization
+dapagliflozin,LT,2548,Life-threatening
+dapagliflozin,OT,20921,Other serious
+dapagliflozin,RI,82,Required intervention
+dapagliflozin: heart failure or kidney disease,CA,21,Congenital anomaly
+dapagliflozin: heart failure or kidney disease,DE,414,Death
+dapagliflozin: heart failure or kidney disease,DS,125,Disability
+dapagliflozin: heart failure or kidney disease,HO,1586,Hospitalization
+dapagliflozin: heart failure or kidney disease,LT,326,Life-threatening
+dapagliflozin: heart failure or kidney disease,OT,2524,Other serious
+dapagliflozin: heart failure or kidney disease,RI,13,Required intervention
+dapagliflozin: other,CA,27,Congenital anomaly
+dapagliflozin: other,DE,88,Death
+dapagliflozin: other,DS,244,Disability
+dapagliflozin: other,HO,734,Hospitalization
+dapagliflozin: other,LT,251,Life-threatening
+dapagliflozin: other,OT,1832,Other serious
+dapagliflozin: other,RI,6,Required intervention
+dapagliflozin: type 2 diabetes,CA,13,Congenital anomaly
+dapagliflozin: type 2 diabetes,DE,883,Death
+dapagliflozin: type 2 diabetes,DS,337,Disability
+dapagliflozin: type 2 diabetes,HO,5425,Hospitalization
+dapagliflozin: type 2 diabetes,LT,1385,Life-threatening
+dapagliflozin: type 2 diabetes,OT,6935,Other serious
+dapagliflozin: type 2 diabetes,RI,48,Required intervention
+dapagliflozin: unknown,CA,37,Congenital anomaly
+dapagliflozin: unknown,DE,8106,Death
+dapagliflozin: unknown,DS,326,Disability
+dapagliflozin: unknown,HO,3177,Hospitalization
+dapagliflozin: unknown,LT,675,Life-threatening
+dapagliflozin: unknown,OT,10346,Other serious
+dapagliflozin: unknown,RI,18,Required intervention
+dapagliflozin: weight management,CA,5,Congenital anomaly
+dapagliflozin: weight management,DE,5,Death
+dapagliflozin: weight management,DS,10,Disability
+dapagliflozin: weight management,HO,102,Hospitalization
+dapagliflozin: weight management,LT,4,Life-threatening
+dapagliflozin: weight management,OT,121,Other serious
+dulaglutide,CA,14,Congenital anomaly
+dulaglutide,DE,959,Death
+dulaglutide,DS,346,Disability
+dulaglutide,HO,5905,Hospitalization
+dulaglutide,LT,429,Life-threatening
+dulaglutide,OT,8147,Other serious
+dulaglutide,RI,73,Required intervention
+dulaglutide: heart failure or kidney disease,HO,5,Hospitalization
+dulaglutide: heart failure or kidney disease,OT,4,Other serious
+dulaglutide: other,DE,2,Death
+dulaglutide: other,DS,10,Disability
+dulaglutide: other,HO,113,Hospitalization
+dulaglutide: other,LT,13,Life-threatening
+dulaglutide: other,OT,155,Other serious
+dulaglutide: other,RI,5,Required intervention
+dulaglutide: type 2 diabetes,CA,13,Congenital anomaly
+dulaglutide: type 2 diabetes,DE,940,Death
+dulaglutide: type 2 diabetes,DS,336,Disability
+dulaglutide: type 2 diabetes,HO,5703,Hospitalization
+dulaglutide: type 2 diabetes,LT,417,Life-threatening
+dulaglutide: type 2 diabetes,OT,7962,Other serious
+dulaglutide: type 2 diabetes,RI,69,Required intervention
+dulaglutide: unknown,CA,1,Congenital anomaly
+dulaglutide: unknown,DE,13,Death
+dulaglutide: unknown,DS,1,Disability
+dulaglutide: unknown,HO,133,Hospitalization
+dulaglutide: unknown,LT,7,Life-threatening
+dulaglutide: unknown,OT,81,Other serious
+dulaglutide: unknown,RI,2,Required intervention
+dulaglutide: weight management,DE,11,Death
+dulaglutide: weight management,DS,7,Disability
+dulaglutide: weight management,HO,350,Hospitalization
+dulaglutide: weight management,LT,20,Life-threatening
+dulaglutide: weight management,OT,416,Other serious
+dulaglutide: weight management,RI,4,Required intervention
+empagliflozin,CA,22,Congenital anomaly
+empagliflozin,DE,1721,Death
+empagliflozin,DS,709,Disability
+empagliflozin,HO,12288,Hospitalization
+empagliflozin,LT,2601,Life-threatening
+empagliflozin,OT,14034,Other serious
+empagliflozin,RI,421,Required intervention
+empagliflozin: heart failure or kidney disease,CA,1,Congenital anomaly
+empagliflozin: heart failure or kidney disease,DE,220,Death
+empagliflozin: heart failure or kidney disease,DS,58,Disability
+empagliflozin: heart failure or kidney disease,HO,1171,Hospitalization
+empagliflozin: heart failure or kidney disease,LT,207,Life-threatening
+empagliflozin: heart failure or kidney disease,OT,1059,Other serious
+empagliflozin: heart failure or kidney disease,RI,39,Required intervention
+empagliflozin: other,DE,51,Death
+empagliflozin: other,DS,31,Disability
+empagliflozin: other,HO,428,Hospitalization
+empagliflozin: other,LT,75,Life-threatening
+empagliflozin: other,OT,449,Other serious
+empagliflozin: other,RI,19,Required intervention
+empagliflozin: type 2 diabetes,CA,10,Congenital anomaly
+empagliflozin: type 2 diabetes,DE,540,Death
+empagliflozin: type 2 diabetes,DS,416,Disability
+empagliflozin: type 2 diabetes,HO,7237,Hospitalization
+empagliflozin: type 2 diabetes,LT,1854,Life-threatening
+empagliflozin: type 2 diabetes,OT,6697,Other serious
+empagliflozin: type 2 diabetes,RI,323,Required intervention
+empagliflozin: unknown,CA,11,Congenital anomaly
+empagliflozin: unknown,DE,961,Death
+empagliflozin: unknown,DS,232,Disability
+empagliflozin: unknown,HO,3834,Hospitalization
+empagliflozin: unknown,LT,554,Life-threatening
+empagliflozin: unknown,OT,6142,Other serious
+empagliflozin: unknown,RI,47,Required intervention
+empagliflozin: weight management,DE,1,Death
+empagliflozin: weight management,HO,17,Hospitalization
+empagliflozin: weight management,LT,4,Life-threatening
+empagliflozin: weight management,OT,27,Other serious
+empagliflozin: weight management,RI,1,Required intervention
+ertugliflozin,DE,10,Death
+ertugliflozin,DS,13,Disability
+ertugliflozin,HO,232,Hospitalization
+ertugliflozin,LT,47,Life-threatening
+ertugliflozin,OT,284,Other serious
+ertugliflozin,RI,1,Required intervention
+ertugliflozin: heart failure or kidney disease,OT,1,Other serious
+ertugliflozin: other,DE,1,Death
+ertugliflozin: other,DS,1,Disability
+ertugliflozin: other,HO,2,Hospitalization
+ertugliflozin: other,OT,4,Other serious
+ertugliflozin: type 2 diabetes,DE,5,Death
+ertugliflozin: type 2 diabetes,DS,12,Disability
+ertugliflozin: type 2 diabetes,HO,186,Hospitalization
+ertugliflozin: type 2 diabetes,LT,41,Life-threatening
+ertugliflozin: type 2 diabetes,OT,218,Other serious
+ertugliflozin: type 2 diabetes,RI,1,Required intervention
+ertugliflozin: unknown,DE,4,Death
+ertugliflozin: unknown,HO,44,Hospitalization
+ertugliflozin: unknown,LT,6,Life-threatening
+ertugliflozin: unknown,OT,61,Other serious
+ertugliflozin: weight management,HO,1,Hospitalization
+exenatide,CA,3,Congenital anomaly
+exenatide,DE,359,Death
+exenatide,DS,58,Disability
+exenatide,HO,833,Hospitalization
+exenatide,LT,83,Life-threatening
+exenatide,OT,1773,Other serious
+exenatide,RI,3,Required intervention
+exenatide: heart failure or kidney disease,HO,3,Hospitalization
+exenatide: heart failure or kidney disease,OT,2,Other serious
+exenatide: other,DE,2,Death
+exenatide: other,HO,13,Hospitalization
+exenatide: other,OT,17,Other serious
+exenatide: type 2 diabetes,CA,3,Congenital anomaly
+exenatide: type 2 diabetes,DE,348,Death
+exenatide: type 2 diabetes,DS,58,Disability
+exenatide: type 2 diabetes,HO,807,Hospitalization
+exenatide: type 2 diabetes,LT,83,Life-threatening
+exenatide: type 2 diabetes,OT,1725,Other serious
+exenatide: type 2 diabetes,RI,3,Required intervention
+exenatide: unknown,DE,9,Death
+exenatide: unknown,HO,12,Hospitalization
+exenatide: unknown,OT,32,Other serious
+exenatide: weight management,DS,1,Disability
+exenatide: weight management,HO,14,Hospitalization
+exenatide: weight management,OT,25,Other serious
+liraglutide,CA,18,Congenital anomaly
+liraglutide,DE,577,Death
+liraglutide,DS,260,Disability
+liraglutide,HO,3319,Hospitalization
+liraglutide,LT,488,Life-threatening
+liraglutide,OT,5653,Other serious
+liraglutide,RI,54,Required intervention
+liraglutide: heart failure or kidney disease,DE,1,Death
+liraglutide: heart failure or kidney disease,HO,2,Hospitalization
+liraglutide: heart failure or kidney disease,OT,3,Other serious
+liraglutide: other,DE,6,Death
+liraglutide: other,DS,9,Disability
+liraglutide: other,HO,128,Hospitalization
+liraglutide: other,LT,11,Life-threatening
+liraglutide: other,OT,199,Other serious
+liraglutide: other,RI,4,Required intervention
+liraglutide: type 2 diabetes,CA,6,Congenital anomaly
+liraglutide: type 2 diabetes,DE,413,Death
+liraglutide: type 2 diabetes,DS,158,Disability
+liraglutide: type 2 diabetes,HO,2231,Hospitalization
+liraglutide: type 2 diabetes,LT,256,Life-threatening
+liraglutide: type 2 diabetes,OT,3331,Other serious
+liraglutide: type 2 diabetes,RI,27,Required intervention
+liraglutide: unknown,CA,2,Congenital anomaly
+liraglutide: unknown,DE,82,Death
+liraglutide: unknown,DS,6,Disability
+liraglutide: unknown,HO,196,Hospitalization
+liraglutide: unknown,LT,125,Life-threatening
+liraglutide: unknown,OT,261,Other serious
+liraglutide: unknown,RI,1,Required intervention
+liraglutide: weight management,CA,10,Congenital anomaly
+liraglutide: weight management,DE,83,Death
+liraglutide: weight management,DS,99,Disability
+liraglutide: weight management,HO,1063,Hospitalization
+liraglutide: weight management,LT,126,Life-threatening
+liraglutide: weight management,OT,2317,Other serious
+liraglutide: weight management,RI,25,Required intervention
+lixisenatide,DE,21,Death
+lixisenatide,DS,19,Disability
+lixisenatide,HO,202,Hospitalization
+lixisenatide,LT,15,Life-threatening
+lixisenatide,OT,481,Other serious
+lixisenatide,RI,2,Required intervention
+lixisenatide: heart failure or kidney disease,OT,1,Other serious
+lixisenatide: other,HO,1,Hospitalization
+lixisenatide: other,OT,2,Other serious
+lixisenatide: type 2 diabetes,DE,21,Death
+lixisenatide: type 2 diabetes,DS,19,Disability
+lixisenatide: type 2 diabetes,HO,176,Hospitalization
+lixisenatide: type 2 diabetes,LT,12,Life-threatening
+lixisenatide: type 2 diabetes,OT,442,Other serious
+lixisenatide: type 2 diabetes,RI,2,Required intervention
+lixisenatide: unknown,HO,25,Hospitalization
+lixisenatide: unknown,LT,3,Life-threatening
+lixisenatide: unknown,OT,38,Other serious
+semaglutide,CA,52,Congenital anomaly
+semaglutide,DE,1147,Death
+semaglutide,DS,1982,Disability
+semaglutide,HO,16550,Hospitalization
+semaglutide,LT,1737,Life-threatening
+semaglutide,OT,34216,Other serious
+semaglutide,RI,742,Required intervention
+semaglutide: heart failure or kidney disease,DE,1,Death
+semaglutide: heart failure or kidney disease,DS,5,Disability
+semaglutide: heart failure or kidney disease,HO,37,Hospitalization
+semaglutide: heart failure or kidney disease,LT,5,Life-threatening
+semaglutide: heart failure or kidney disease,OT,110,Other serious
+semaglutide: heart failure or kidney disease,RI,1,Required intervention
+semaglutide: other,CA,2,Congenital anomaly
+semaglutide: other,DE,27,Death
+semaglutide: other,DS,106,Disability
+semaglutide: other,HO,1052,Hospitalization
+semaglutide: other,LT,113,Life-threatening
+semaglutide: other,OT,2286,Other serious
+semaglutide: other,RI,51,Required intervention
+semaglutide: type 2 diabetes,CA,26,Congenital anomaly
+semaglutide: type 2 diabetes,DE,867,Death
+semaglutide: type 2 diabetes,DS,1186,Disability
+semaglutide: type 2 diabetes,HO,11872,Hospitalization
+semaglutide: type 2 diabetes,LT,1054,Life-threatening
+semaglutide: type 2 diabetes,OT,22110,Other serious
+semaglutide: type 2 diabetes,RI,361,Required intervention
+semaglutide: unknown,CA,4,Congenital anomaly
+semaglutide: unknown,DE,67,Death
+semaglutide: unknown,DS,36,Disability
+semaglutide: unknown,HO,510,Hospitalization
+semaglutide: unknown,LT,69,Life-threatening
+semaglutide: unknown,OT,979,Other serious
+semaglutide: unknown,RI,32,Required intervention
+semaglutide: weight management,CA,23,Congenital anomaly
+semaglutide: weight management,DE,268,Death
+semaglutide: weight management,DS,837,Disability
+semaglutide: weight management,HO,5746,Hospitalization
+semaglutide: weight management,LT,744,Life-threatening
+semaglutide: weight management,OT,13547,Other serious
+semaglutide: weight management,RI,380,Required intervention
+tirzepatide,CA,52,Congenital anomaly
+tirzepatide,DE,931,Death
+tirzepatide,DS,1106,Disability
+tirzepatide,HO,10578,Hospitalization
+tirzepatide,LT,1309,Life-threatening
+tirzepatide,OT,21121,Other serious
+tirzepatide,RI,392,Required intervention
+tirzepatide: heart failure or kidney disease,HO,11,Hospitalization
+tirzepatide: heart failure or kidney disease,LT,1,Life-threatening
+tirzepatide: heart failure or kidney disease,OT,7,Other serious
+tirzepatide: other,CA,1,Congenital anomaly
+tirzepatide: other,DE,14,Death
+tirzepatide: other,DS,72,Disability
+tirzepatide: other,HO,453,Hospitalization
+tirzepatide: other,LT,46,Life-threatening
+tirzepatide: other,OT,743,Other serious
+tirzepatide: other,RI,44,Required intervention
+tirzepatide: type 2 diabetes,CA,26,Congenital anomaly
+tirzepatide: type 2 diabetes,DE,598,Death
+tirzepatide: type 2 diabetes,DS,525,Disability
+tirzepatide: type 2 diabetes,HO,6172,Hospitalization
+tirzepatide: type 2 diabetes,LT,695,Life-threatening
+tirzepatide: type 2 diabetes,OT,12695,Other serious
+tirzepatide: type 2 diabetes,RI,135,Required intervention
+tirzepatide: unknown,CA,2,Congenital anomaly
+tirzepatide: unknown,DE,36,Death
+tirzepatide: unknown,DS,24,Disability
+tirzepatide: unknown,HO,314,Hospitalization
+tirzepatide: unknown,LT,44,Life-threatening
+tirzepatide: unknown,OT,480,Other serious
+tirzepatide: unknown,RI,28,Required intervention
+tirzepatide: weight management,CA,25,Congenital anomaly
+tirzepatide: weight management,DE,322,Death
+tirzepatide: weight management,DS,595,Disability
+tirzepatide: weight management,HO,4675,Hospitalization
+tirzepatide: weight management,LT,642,Life-threatening
+tirzepatide: weight management,OT,8809,Other serious
+tirzepatide: weight management,RI,243,Required intervention

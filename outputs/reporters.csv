@@ -1,0 +1,594 @@
+exposure,period,reporter,reports
+GLP-1 RA (any),Before July 2023,Consumer,78666
+GLP-1 RA (any),Before July 2023,Lawyer,174
+GLP-1 RA (any),Before July 2023,Not reported,1774
+GLP-1 RA (any),Before July 2023,Other health professional,6613
+GLP-1 RA (any),Before July 2023,Pharmacist,3352
+GLP-1 RA (any),Before July 2023,Physician,8458
+GLP-1 RA (any),July 2023 onward,Consumer,182087
+GLP-1 RA (any),July 2023 onward,Lawyer,1929
+GLP-1 RA (any),July 2023 onward,Not reported,37521
+GLP-1 RA (any),July 2023 onward,Other health professional,10230
+GLP-1 RA (any),July 2023 onward,Pharmacist,5134
+GLP-1 RA (any),July 2023 onward,Physician,13501
+SGLT2 inhibitor (any),Before July 2023,Consumer,16970
+SGLT2 inhibitor (any),Before July 2023,Lawyer,158
+SGLT2 inhibitor (any),Before July 2023,Not reported,1337
+SGLT2 inhibitor (any),Before July 2023,Other health professional,5586
+SGLT2 inhibitor (any),Before July 2023,Pharmacist,2945
+SGLT2 inhibitor (any),Before July 2023,Physician,13063
+SGLT2 inhibitor (any),July 2023 onward,Consumer,10803
+SGLT2 inhibitor (any),July 2023 onward,Lawyer,10
+SGLT2 inhibitor (any),July 2023 onward,Not reported,11435
+SGLT2 inhibitor (any),July 2023 onward,Other health professional,3859
+SGLT2 inhibitor (any),July 2023 onward,Pharmacist,3727
+SGLT2 inhibitor (any),July 2023 onward,Physician,11661
+bexagliflozin,July 2023 onward,Consumer,2
+bexagliflozin,July 2023 onward,Other health professional,2
+bexagliflozin: type 2 diabetes,July 2023 onward,Consumer,1
+bexagliflozin: type 2 diabetes,July 2023 onward,Other health professional,2
+bexagliflozin: unknown,July 2023 onward,Consumer,1
+canagliflozin,Before July 2023,Consumer,2162
+canagliflozin,Before July 2023,Lawyer,79
+canagliflozin,Before July 2023,Not reported,29
+canagliflozin,Before July 2023,Other health professional,910
+canagliflozin,Before July 2023,Pharmacist,341
+canagliflozin,Before July 2023,Physician,973
+canagliflozin,July 2023 onward,Consumer,115
+canagliflozin,July 2023 onward,Not reported,43
+canagliflozin,July 2023 onward,Other health professional,231
+canagliflozin,July 2023 onward,Pharmacist,195
+canagliflozin,July 2023 onward,Physician,229
+canagliflozin: heart failure or kidney disease,Before July 2023,Consumer,7
+canagliflozin: heart failure or kidney disease,Before July 2023,Other health professional,6
+canagliflozin: heart failure or kidney disease,Before July 2023,Pharmacist,1
+canagliflozin: heart failure or kidney disease,Before July 2023,Physician,4
+canagliflozin: heart failure or kidney disease,July 2023 onward,Other health professional,2
+canagliflozin: heart failure or kidney disease,July 2023 onward,Pharmacist,3
+canagliflozin: heart failure or kidney disease,July 2023 onward,Physician,16
+canagliflozin: other,Before July 2023,Consumer,8
+canagliflozin: other,Before July 2023,Other health professional,9
+canagliflozin: other,Before July 2023,Pharmacist,10
+canagliflozin: other,Before July 2023,Physician,13
+canagliflozin: other,July 2023 onward,Consumer,1
+canagliflozin: other,July 2023 onward,Other health professional,3
+canagliflozin: other,July 2023 onward,Pharmacist,5
+canagliflozin: other,July 2023 onward,Physician,9
+canagliflozin: type 2 diabetes,Before July 2023,Consumer,974
+canagliflozin: type 2 diabetes,Before July 2023,Lawyer,35
+canagliflozin: type 2 diabetes,Before July 2023,Not reported,17
+canagliflozin: type 2 diabetes,Before July 2023,Other health professional,443
+canagliflozin: type 2 diabetes,Before July 2023,Pharmacist,218
+canagliflozin: type 2 diabetes,Before July 2023,Physician,671
+canagliflozin: type 2 diabetes,July 2023 onward,Consumer,53
+canagliflozin: type 2 diabetes,July 2023 onward,Not reported,21
+canagliflozin: type 2 diabetes,July 2023 onward,Other health professional,119
+canagliflozin: type 2 diabetes,July 2023 onward,Pharmacist,107
+canagliflozin: type 2 diabetes,July 2023 onward,Physician,148
+canagliflozin: unknown,Before July 2023,Consumer,1178
+canagliflozin: unknown,Before July 2023,Lawyer,44
+canagliflozin: unknown,Before July 2023,Not reported,12
+canagliflozin: unknown,Before July 2023,Other health professional,461
+canagliflozin: unknown,Before July 2023,Pharmacist,115
+canagliflozin: unknown,Before July 2023,Physician,289
+canagliflozin: unknown,July 2023 onward,Consumer,62
+canagliflozin: unknown,July 2023 onward,Not reported,22
+canagliflozin: unknown,July 2023 onward,Other health professional,109
+canagliflozin: unknown,July 2023 onward,Pharmacist,83
+canagliflozin: unknown,July 2023 onward,Physician,69
+canagliflozin: weight management,Before July 2023,Consumer,1
+canagliflozin: weight management,Before July 2023,Other health professional,2
+canagliflozin: weight management,Before July 2023,Physician,2
+canagliflozin: weight management,July 2023 onward,Pharmacist,2
+canagliflozin: weight management,July 2023 onward,Physician,1
+dapagliflozin,Before July 2023,Consumer,4378
+dapagliflozin,Before July 2023,Lawyer,76
+dapagliflozin,Before July 2023,Not reported,1133
+dapagliflozin,Before July 2023,Other health professional,1730
+dapagliflozin,Before July 2023,Pharmacist,706
+dapagliflozin,Before July 2023,Physician,5189
+dapagliflozin,July 2023 onward,Consumer,5927
+dapagliflozin,July 2023 onward,Lawyer,3
+dapagliflozin,July 2023 onward,Not reported,9308
+dapagliflozin,July 2023 onward,Other health professional,2032
+dapagliflozin,July 2023 onward,Pharmacist,2006
+dapagliflozin,July 2023 onward,Physician,7064
+dapagliflozin: heart failure or kidney disease,Before July 2023,Consumer,272
+dapagliflozin: heart failure or kidney disease,Before July 2023,Not reported,78
+dapagliflozin: heart failure or kidney disease,Before July 2023,Other health professional,241
+dapagliflozin: heart failure or kidney disease,Before July 2023,Pharmacist,92
+dapagliflozin: heart failure or kidney disease,Before July 2023,Physician,853
+dapagliflozin: heart failure or kidney disease,July 2023 onward,Consumer,260
+dapagliflozin: heart failure or kidney disease,July 2023 onward,Not reported,430
+dapagliflozin: heart failure or kidney disease,July 2023 onward,Other health professional,287
+dapagliflozin: heart failure or kidney disease,July 2023 onward,Pharmacist,394
+dapagliflozin: heart failure or kidney disease,July 2023 onward,Physician,1538
+dapagliflozin: other,Before July 2023,Consumer,266
+dapagliflozin: other,Before July 2023,Lawyer,67
+dapagliflozin: other,Before July 2023,Not reported,59
+dapagliflozin: other,Before July 2023,Other health professional,114
+dapagliflozin: other,Before July 2023,Pharmacist,12
+dapagliflozin: other,Before July 2023,Physician,318
+dapagliflozin: other,July 2023 onward,Consumer,206
+dapagliflozin: other,July 2023 onward,Not reported,311
+dapagliflozin: other,July 2023 onward,Other health professional,250
+dapagliflozin: other,July 2023 onward,Pharmacist,199
+dapagliflozin: other,July 2023 onward,Physician,676
+dapagliflozin: type 2 diabetes,Before July 2023,Consumer,1378
+dapagliflozin: type 2 diabetes,Before July 2023,Lawyer,74
+dapagliflozin: type 2 diabetes,Before July 2023,Not reported,689
+dapagliflozin: type 2 diabetes,Before July 2023,Other health professional,825
+dapagliflozin: type 2 diabetes,Before July 2023,Pharmacist,360
+dapagliflozin: type 2 diabetes,Before July 2023,Physician,2698
+dapagliflozin: type 2 diabetes,July 2023 onward,Consumer,1262
+dapagliflozin: type 2 diabetes,July 2023 onward,Lawyer,1
+dapagliflozin: type 2 diabetes,July 2023 onward,Not reported,1633
+dapagliflozin: type 2 diabetes,July 2023 onward,Other health professional,562
+dapagliflozin: type 2 diabetes,July 2023 onward,Pharmacist,657
+dapagliflozin: type 2 diabetes,July 2023 onward,Physician,2234
+dapagliflozin: unknown,Before July 2023,Consumer,2555
+dapagliflozin: unknown,Before July 2023,Lawyer,1
+dapagliflozin: unknown,Before July 2023,Not reported,346
+dapagliflozin: unknown,Before July 2023,Other health professional,620
+dapagliflozin: unknown,Before July 2023,Pharmacist,249
+dapagliflozin: unknown,Before July 2023,Physician,1527
+dapagliflozin: unknown,July 2023 onward,Consumer,4274
+dapagliflozin: unknown,July 2023 onward,Lawyer,2
+dapagliflozin: unknown,July 2023 onward,Not reported,7071
+dapagliflozin: unknown,July 2023 onward,Other health professional,1030
+dapagliflozin: unknown,July 2023 onward,Pharmacist,803
+dapagliflozin: unknown,July 2023 onward,Physician,2838
+dapagliflozin: weight management,Before July 2023,Consumer,8
+dapagliflozin: weight management,Before July 2023,Lawyer,66
+dapagliflozin: weight management,Before July 2023,Not reported,29
+dapagliflozin: weight management,Before July 2023,Other health professional,3
+dapagliflozin: weight management,Before July 2023,Physician,10
+dapagliflozin: weight management,July 2023 onward,Consumer,9
+dapagliflozin: weight management,July 2023 onward,Not reported,3
+dapagliflozin: weight management,July 2023 onward,Other health professional,1
+dapagliflozin: weight management,July 2023 onward,Pharmacist,1
+dapagliflozin: weight management,July 2023 onward,Physician,8
+dulaglutide,Before July 2023,Consumer,37377
+dulaglutide,Before July 2023,Lawyer,6
+dulaglutide,Before July 2023,Not reported,41
+dulaglutide,Before July 2023,Other health professional,2356
+dulaglutide,Before July 2023,Pharmacist,1234
+dulaglutide,Before July 2023,Physician,2076
+dulaglutide,July 2023 onward,Consumer,13554
+dulaglutide,July 2023 onward,Lawyer,1170
+dulaglutide,July 2023 onward,Not reported,1075
+dulaglutide,July 2023 onward,Other health professional,557
+dulaglutide,July 2023 onward,Pharmacist,339
+dulaglutide,July 2023 onward,Physician,472
+dulaglutide: heart failure or kidney disease,Before July 2023,Consumer,6
+dulaglutide: heart failure or kidney disease,Before July 2023,Physician,1
+dulaglutide: heart failure or kidney disease,July 2023 onward,Consumer,7
+dulaglutide: heart failure or kidney disease,July 2023 onward,Lawyer,1
+dulaglutide: heart failure or kidney disease,July 2023 onward,Not reported,1
+dulaglutide: heart failure or kidney disease,July 2023 onward,Physician,1
+dulaglutide: other,Before July 2023,Consumer,267
+dulaglutide: other,Before July 2023,Not reported,1
+dulaglutide: other,Before July 2023,Other health professional,9
+dulaglutide: other,Before July 2023,Pharmacist,7
+dulaglutide: other,Before July 2023,Physician,5
+dulaglutide: other,July 2023 onward,Consumer,208
+dulaglutide: other,July 2023 onward,Lawyer,46
+dulaglutide: other,July 2023 onward,Not reported,37
+dulaglutide: other,July 2023 onward,Other health professional,5
+dulaglutide: other,July 2023 onward,Pharmacist,1
+dulaglutide: other,July 2023 onward,Physician,12
+dulaglutide: type 2 diabetes,Before July 2023,Consumer,37049
+dulaglutide: type 2 diabetes,Before July 2023,Lawyer,6
+dulaglutide: type 2 diabetes,Before July 2023,Not reported,37
+dulaglutide: type 2 diabetes,Before July 2023,Other health professional,2333
+dulaglutide: type 2 diabetes,Before July 2023,Pharmacist,1171
+dulaglutide: type 2 diabetes,Before July 2023,Physician,2049
+dulaglutide: type 2 diabetes,July 2023 onward,Consumer,13351
+dulaglutide: type 2 diabetes,July 2023 onward,Lawyer,1148
+dulaglutide: type 2 diabetes,July 2023 onward,Not reported,1038
+dulaglutide: type 2 diabetes,July 2023 onward,Other health professional,524
+dulaglutide: type 2 diabetes,July 2023 onward,Pharmacist,331
+dulaglutide: type 2 diabetes,July 2023 onward,Physician,450
+dulaglutide: unknown,Before July 2023,Consumer,78
+dulaglutide: unknown,Before July 2023,Not reported,2
+dulaglutide: unknown,Before July 2023,Other health professional,13
+dulaglutide: unknown,Before July 2023,Pharmacist,60
+dulaglutide: unknown,Before July 2023,Physician,23
+dulaglutide: unknown,July 2023 onward,Consumer,18
+dulaglutide: unknown,July 2023 onward,Lawyer,1
+dulaglutide: unknown,July 2023 onward,Not reported,16
+dulaglutide: unknown,July 2023 onward,Other health professional,25
+dulaglutide: unknown,July 2023 onward,Pharmacist,7
+dulaglutide: unknown,July 2023 onward,Physician,11
+dulaglutide: weight management,Before July 2023,Consumer,277
+dulaglutide: weight management,Before July 2023,Not reported,1
+dulaglutide: weight management,Before July 2023,Other health professional,11
+dulaglutide: weight management,Before July 2023,Pharmacist,4
+dulaglutide: weight management,Before July 2023,Physician,17
+dulaglutide: weight management,July 2023 onward,Consumer,428
+dulaglutide: weight management,July 2023 onward,Lawyer,183
+dulaglutide: weight management,July 2023 onward,Not reported,56
+dulaglutide: weight management,July 2023 onward,Other health professional,8
+dulaglutide: weight management,July 2023 onward,Pharmacist,3
+dulaglutide: weight management,July 2023 onward,Physician,15
+empagliflozin,Before July 2023,Consumer,10119
+empagliflozin,Before July 2023,Lawyer,3
+empagliflozin,Before July 2023,Not reported,173
+empagliflozin,Before July 2023,Other health professional,2913
+empagliflozin,Before July 2023,Pharmacist,1876
+empagliflozin,Before July 2023,Physician,6849
+empagliflozin,July 2023 onward,Consumer,4734
+empagliflozin,July 2023 onward,Lawyer,7
+empagliflozin,July 2023 onward,Not reported,2088
+empagliflozin,July 2023 onward,Other health professional,1494
+empagliflozin,July 2023 onward,Pharmacist,1528
+empagliflozin,July 2023 onward,Physician,4367
+empagliflozin: heart failure or kidney disease,Before July 2023,Consumer,158
+empagliflozin: heart failure or kidney disease,Before July 2023,Not reported,3
+empagliflozin: heart failure or kidney disease,Before July 2023,Other health professional,99
+empagliflozin: heart failure or kidney disease,Before July 2023,Pharmacist,78
+empagliflozin: heart failure or kidney disease,Before July 2023,Physician,451
+empagliflozin: heart failure or kidney disease,July 2023 onward,Consumer,223
+empagliflozin: heart failure or kidney disease,July 2023 onward,Not reported,224
+empagliflozin: heart failure or kidney disease,July 2023 onward,Other health professional,143
+empagliflozin: heart failure or kidney disease,July 2023 onward,Pharmacist,248
+empagliflozin: heart failure or kidney disease,July 2023 onward,Physician,865
+empagliflozin: other,Before July 2023,Consumer,168
+empagliflozin: other,Before July 2023,Not reported,6
+empagliflozin: other,Before July 2023,Other health professional,64
+empagliflozin: other,Before July 2023,Pharmacist,37
+empagliflozin: other,Before July 2023,Physician,126
+empagliflozin: other,July 2023 onward,Consumer,170
+empagliflozin: other,July 2023 onward,Not reported,162
+empagliflozin: other,July 2023 onward,Other health professional,91
+empagliflozin: other,July 2023 onward,Pharmacist,65
+empagliflozin: other,July 2023 onward,Physician,198
+empagliflozin: type 2 diabetes,Before July 2023,Consumer,3522
+empagliflozin: type 2 diabetes,Before July 2023,Not reported,101
+empagliflozin: type 2 diabetes,Before July 2023,Other health professional,1511
+empagliflozin: type 2 diabetes,Before July 2023,Pharmacist,1233
+empagliflozin: type 2 diabetes,Before July 2023,Physician,4027
+empagliflozin: type 2 diabetes,July 2023 onward,Consumer,1126
+empagliflozin: type 2 diabetes,July 2023 onward,Lawyer,7
+empagliflozin: type 2 diabetes,July 2023 onward,Not reported,863
+empagliflozin: type 2 diabetes,July 2023 onward,Other health professional,661
+empagliflozin: type 2 diabetes,July 2023 onward,Pharmacist,757
+empagliflozin: type 2 diabetes,July 2023 onward,Physician,2113
+empagliflozin: unknown,Before July 2023,Consumer,6342
+empagliflozin: unknown,Before July 2023,Lawyer,3
+empagliflozin: unknown,Before July 2023,Not reported,69
+empagliflozin: unknown,Before July 2023,Other health professional,1264
+empagliflozin: unknown,Before July 2023,Pharmacist,556
+empagliflozin: unknown,Before July 2023,Physician,2390
+empagliflozin: unknown,July 2023 onward,Consumer,3300
+empagliflozin: unknown,July 2023 onward,Not reported,945
+empagliflozin: unknown,July 2023 onward,Other health professional,632
+empagliflozin: unknown,July 2023 onward,Pharmacist,518
+empagliflozin: unknown,July 2023 onward,Physician,1410
+empagliflozin: weight management,Before July 2023,Consumer,16
+empagliflozin: weight management,Before July 2023,Other health professional,3
+empagliflozin: weight management,Before July 2023,Pharmacist,2
+empagliflozin: weight management,Before July 2023,Physician,11
+empagliflozin: weight management,July 2023 onward,Consumer,16
+empagliflozin: weight management,July 2023 onward,Not reported,7
+empagliflozin: weight management,July 2023 onward,Pharmacist,1
+empagliflozin: weight management,July 2023 onward,Physician,3
+ertugliflozin,Before July 2023,Consumer,362
+ertugliflozin,Before July 2023,Not reported,9
+ertugliflozin,Before July 2023,Other health professional,77
+ertugliflozin,Before July 2023,Pharmacist,26
+ertugliflozin,Before July 2023,Physician,110
+ertugliflozin,July 2023 onward,Consumer,50
+ertugliflozin,July 2023 onward,Not reported,17
+ertugliflozin,July 2023 onward,Other health professional,123
+ertugliflozin,July 2023 onward,Pharmacist,14
+ertugliflozin,July 2023 onward,Physician,57
+ertugliflozin: heart failure or kidney disease,July 2023 onward,Consumer,1
+ertugliflozin: heart failure or kidney disease,July 2023 onward,Other health professional,1
+ertugliflozin: other,Before July 2023,Consumer,1
+ertugliflozin: other,Before July 2023,Physician,1
+ertugliflozin: other,July 2023 onward,Consumer,2
+ertugliflozin: other,July 2023 onward,Other health professional,2
+ertugliflozin: other,July 2023 onward,Pharmacist,1
+ertugliflozin: type 2 diabetes,Before July 2023,Consumer,224
+ertugliflozin: type 2 diabetes,Before July 2023,Not reported,3
+ertugliflozin: type 2 diabetes,Before July 2023,Other health professional,50
+ertugliflozin: type 2 diabetes,Before July 2023,Pharmacist,18
+ertugliflozin: type 2 diabetes,Before July 2023,Physician,76
+ertugliflozin: type 2 diabetes,July 2023 onward,Consumer,20
+ertugliflozin: type 2 diabetes,July 2023 onward,Not reported,15
+ertugliflozin: type 2 diabetes,July 2023 onward,Other health professional,114
+ertugliflozin: type 2 diabetes,July 2023 onward,Pharmacist,6
+ertugliflozin: type 2 diabetes,July 2023 onward,Physician,40
+ertugliflozin: unknown,Before July 2023,Consumer,138
+ertugliflozin: unknown,Before July 2023,Not reported,6
+ertugliflozin: unknown,Before July 2023,Other health professional,27
+ertugliflozin: unknown,Before July 2023,Pharmacist,8
+ertugliflozin: unknown,Before July 2023,Physician,33
+ertugliflozin: unknown,July 2023 onward,Consumer,29
+ertugliflozin: unknown,July 2023 onward,Not reported,2
+ertugliflozin: unknown,July 2023 onward,Other health professional,6
+ertugliflozin: unknown,July 2023 onward,Pharmacist,7
+ertugliflozin: unknown,July 2023 onward,Physician,17
+ertugliflozin: weight management,Before July 2023,Consumer,1
+ertugliflozin: weight management,July 2023 onward,Other health professional,1
+exenatide,Before July 2023,Consumer,10490
+exenatide,Before July 2023,Lawyer,55
+exenatide,Before July 2023,Not reported,1566
+exenatide,Before July 2023,Other health professional,470
+exenatide,Before July 2023,Pharmacist,237
+exenatide,Before July 2023,Physician,754
+exenatide,July 2023 onward,Consumer,1265
+exenatide,July 2023 onward,Lawyer,10
+exenatide,July 2023 onward,Not reported,463
+exenatide,July 2023 onward,Other health professional,62
+exenatide,July 2023 onward,Pharmacist,18
+exenatide,July 2023 onward,Physician,99
+exenatide: heart failure or kidney disease,Before July 2023,Consumer,7
+exenatide: heart failure or kidney disease,Before July 2023,Not reported,1
+exenatide: heart failure or kidney disease,Before July 2023,Other health professional,2
+exenatide: heart failure or kidney disease,Before July 2023,Physician,2
+exenatide: other,Before July 2023,Consumer,196
+exenatide: other,Before July 2023,Not reported,33
+exenatide: other,Before July 2023,Other health professional,11
+exenatide: other,Before July 2023,Pharmacist,1
+exenatide: other,Before July 2023,Physician,7
+exenatide: other,July 2023 onward,Consumer,4
+exenatide: other,July 2023 onward,Lawyer,1
+exenatide: other,July 2023 onward,Not reported,1
+exenatide: other,July 2023 onward,Other health professional,2
+exenatide: type 2 diabetes,Before July 2023,Consumer,10320
+exenatide: type 2 diabetes,Before July 2023,Lawyer,55
+exenatide: type 2 diabetes,Before July 2023,Not reported,1540
+exenatide: type 2 diabetes,Before July 2023,Other health professional,450
+exenatide: type 2 diabetes,Before July 2023,Pharmacist,233
+exenatide: type 2 diabetes,Before July 2023,Physician,739
+exenatide: type 2 diabetes,July 2023 onward,Consumer,1253
+exenatide: type 2 diabetes,July 2023 onward,Lawyer,10
+exenatide: type 2 diabetes,July 2023 onward,Not reported,437
+exenatide: type 2 diabetes,July 2023 onward,Other health professional,58
+exenatide: type 2 diabetes,July 2023 onward,Pharmacist,18
+exenatide: type 2 diabetes,July 2023 onward,Physician,96
+exenatide: unknown,Before July 2023,Consumer,5
+exenatide: unknown,Before July 2023,Other health professional,7
+exenatide: unknown,Before July 2023,Pharmacist,3
+exenatide: unknown,Before July 2023,Physician,9
+exenatide: unknown,July 2023 onward,Consumer,6
+exenatide: unknown,July 2023 onward,Not reported,23
+exenatide: unknown,July 2023 onward,Other health professional,1
+exenatide: unknown,July 2023 onward,Physician,3
+exenatide: weight management,Before July 2023,Consumer,102
+exenatide: weight management,Before July 2023,Not reported,23
+exenatide: weight management,Before July 2023,Other health professional,6
+exenatide: weight management,Before July 2023,Physician,2
+exenatide: weight management,July 2023 onward,Consumer,10
+exenatide: weight management,July 2023 onward,Lawyer,2
+exenatide: weight management,July 2023 onward,Not reported,4
+exenatide: weight management,July 2023 onward,Other health professional,1
+exenatide: weight management,July 2023 onward,Pharmacist,1
+exenatide: weight management,July 2023 onward,Physician,1
+liraglutide,Before July 2023,Consumer,4430
+liraglutide,Before July 2023,Lawyer,155
+liraglutide,Before July 2023,Not reported,88
+liraglutide,Before July 2023,Other health professional,893
+liraglutide,Before July 2023,Pharmacist,432
+liraglutide,Before July 2023,Physician,1373
+liraglutide,July 2023 onward,Consumer,3307
+liraglutide,July 2023 onward,Lawyer,151
+liraglutide,July 2023 onward,Not reported,475
+liraglutide,July 2023 onward,Other health professional,516
+liraglutide,July 2023 onward,Pharmacist,209
+liraglutide,July 2023 onward,Physician,575
+liraglutide: heart failure or kidney disease,Before July 2023,Consumer,1
+liraglutide: heart failure or kidney disease,Before July 2023,Physician,1
+liraglutide: heart failure or kidney disease,July 2023 onward,Consumer,2
+liraglutide: heart failure or kidney disease,July 2023 onward,Lawyer,1
+liraglutide: heart failure or kidney disease,July 2023 onward,Physician,1
+liraglutide: other,Before July 2023,Consumer,77
+liraglutide: other,Before July 2023,Not reported,1
+liraglutide: other,Before July 2023,Other health professional,30
+liraglutide: other,Before July 2023,Pharmacist,7
+liraglutide: other,Before July 2023,Physician,18
+liraglutide: other,July 2023 onward,Consumer,171
+liraglutide: other,July 2023 onward,Lawyer,7
+liraglutide: other,July 2023 onward,Not reported,26
+liraglutide: other,July 2023 onward,Other health professional,17
+liraglutide: other,July 2023 onward,Pharmacist,4
+liraglutide: other,July 2023 onward,Physician,18
+liraglutide: type 2 diabetes,Before July 2023,Consumer,2751
+liraglutide: type 2 diabetes,Before July 2023,Lawyer,155
+liraglutide: type 2 diabetes,Before July 2023,Not reported,71
+liraglutide: type 2 diabetes,Before July 2023,Other health professional,527
+liraglutide: type 2 diabetes,Before July 2023,Pharmacist,315
+liraglutide: type 2 diabetes,Before July 2023,Physician,803
+liraglutide: type 2 diabetes,July 2023 onward,Consumer,1919
+liraglutide: type 2 diabetes,July 2023 onward,Lawyer,142
+liraglutide: type 2 diabetes,July 2023 onward,Not reported,208
+liraglutide: type 2 diabetes,July 2023 onward,Other health professional,297
+liraglutide: type 2 diabetes,July 2023 onward,Pharmacist,114
+liraglutide: type 2 diabetes,July 2023 onward,Physician,242
+liraglutide: unknown,Before July 2023,Consumer,41
+liraglutide: unknown,Before July 2023,Not reported,6
+liraglutide: unknown,Before July 2023,Other health professional,49
+liraglutide: unknown,Before July 2023,Pharmacist,32
+liraglutide: unknown,Before July 2023,Physician,48
+liraglutide: unknown,July 2023 onward,Consumer,228
+liraglutide: unknown,July 2023 onward,Not reported,138
+liraglutide: unknown,July 2023 onward,Other health professional,96
+liraglutide: unknown,July 2023 onward,Pharmacist,26
+liraglutide: unknown,July 2023 onward,Physician,28
+liraglutide: weight management,Before July 2023,Consumer,1688
+liraglutide: weight management,Before July 2023,Lawyer,1
+liraglutide: weight management,Before July 2023,Not reported,10
+liraglutide: weight management,Before July 2023,Other health professional,326
+liraglutide: weight management,Before July 2023,Pharmacist,90
+liraglutide: weight management,Before July 2023,Physician,534
+liraglutide: weight management,July 2023 onward,Consumer,1341
+liraglutide: weight management,July 2023 onward,Lawyer,39
+liraglutide: weight management,July 2023 onward,Not reported,153
+liraglutide: weight management,July 2023 onward,Other health professional,130
+liraglutide: weight management,July 2023 onward,Pharmacist,68
+liraglutide: weight management,July 2023 onward,Physician,316
+lixisenatide,Before July 2023,Consumer,1157
+lixisenatide,Before July 2023,Not reported,1
+lixisenatide,Before July 2023,Other health professional,235
+lixisenatide,Before July 2023,Pharmacist,100
+lixisenatide,Before July 2023,Physician,238
+lixisenatide,July 2023 onward,Consumer,926
+lixisenatide,July 2023 onward,Lawyer,2
+lixisenatide,July 2023 onward,Not reported,110
+lixisenatide,July 2023 onward,Other health professional,123
+lixisenatide,July 2023 onward,Pharmacist,32
+lixisenatide,July 2023 onward,Physician,94
+lixisenatide: heart failure or kidney disease,Before July 2023,Consumer,1
+lixisenatide: other,Before July 2023,Consumer,1
+lixisenatide: other,Before July 2023,Other health professional,3
+lixisenatide: other,Before July 2023,Physician,2
+lixisenatide: other,July 2023 onward,Consumer,4
+lixisenatide: other,July 2023 onward,Other health professional,2
+lixisenatide: other,July 2023 onward,Physician,4
+lixisenatide: type 2 diabetes,Before July 2023,Consumer,1126
+lixisenatide: type 2 diabetes,Before July 2023,Not reported,1
+lixisenatide: type 2 diabetes,Before July 2023,Other health professional,231
+lixisenatide: type 2 diabetes,Before July 2023,Pharmacist,99
+lixisenatide: type 2 diabetes,Before July 2023,Physician,226
+lixisenatide: type 2 diabetes,July 2023 onward,Consumer,918
+lixisenatide: type 2 diabetes,July 2023 onward,Lawyer,2
+lixisenatide: type 2 diabetes,July 2023 onward,Not reported,110
+lixisenatide: type 2 diabetes,July 2023 onward,Other health professional,119
+lixisenatide: type 2 diabetes,July 2023 onward,Pharmacist,29
+lixisenatide: type 2 diabetes,July 2023 onward,Physician,89
+lixisenatide: unknown,Before July 2023,Consumer,30
+lixisenatide: unknown,Before July 2023,Other health professional,2
+lixisenatide: unknown,Before July 2023,Pharmacist,1
+lixisenatide: unknown,Before July 2023,Physician,11
+lixisenatide: unknown,July 2023 onward,Consumer,4
+lixisenatide: unknown,July 2023 onward,Other health professional,2
+lixisenatide: unknown,July 2023 onward,Pharmacist,3
+lixisenatide: unknown,July 2023 onward,Physician,2
+lixisenatide: weight management,July 2023 onward,Consumer,1
+semaglutide,Before July 2023,Consumer,11776
+semaglutide,Before July 2023,Lawyer,2
+semaglutide,Before July 2023,Not reported,97
+semaglutide,Before July 2023,Other health professional,2123
+semaglutide,Before July 2023,Pharmacist,1177
+semaglutide,Before July 2023,Physician,3785
+semaglutide,July 2023 onward,Consumer,39093
+semaglutide,July 2023 onward,Lawyer,952
+semaglutide,July 2023 onward,Not reported,14533
+semaglutide,July 2023 onward,Other health professional,5121
+semaglutide,July 2023 onward,Pharmacist,2804
+semaglutide,July 2023 onward,Physician,8557
+semaglutide: heart failure or kidney disease,Before July 2023,Consumer,2
+semaglutide: heart failure or kidney disease,Before July 2023,Other health professional,1
+semaglutide: heart failure or kidney disease,Before July 2023,Pharmacist,2
+semaglutide: heart failure or kidney disease,Before July 2023,Physician,7
+semaglutide: heart failure or kidney disease,July 2023 onward,Consumer,139
+semaglutide: heart failure or kidney disease,July 2023 onward,Lawyer,1
+semaglutide: heart failure or kidney disease,July 2023 onward,Not reported,115
+semaglutide: heart failure or kidney disease,July 2023 onward,Other health professional,3
+semaglutide: heart failure or kidney disease,July 2023 onward,Pharmacist,5
+semaglutide: heart failure or kidney disease,July 2023 onward,Physician,34
+semaglutide: other,Before July 2023,Consumer,288
+semaglutide: other,Before July 2023,Not reported,4
+semaglutide: other,Before July 2023,Other health professional,43
+semaglutide: other,Before July 2023,Pharmacist,16
+semaglutide: other,Before July 2023,Physician,78
+semaglutide: other,July 2023 onward,Consumer,3109
+semaglutide: other,July 2023 onward,Lawyer,49
+semaglutide: other,July 2023 onward,Not reported,1475
+semaglutide: other,July 2023 onward,Other health professional,130
+semaglutide: other,July 2023 onward,Pharmacist,72
+semaglutide: other,July 2023 onward,Physician,301
+semaglutide: type 2 diabetes,Before July 2023,Consumer,9470
+semaglutide: type 2 diabetes,Before July 2023,Lawyer,2
+semaglutide: type 2 diabetes,Before July 2023,Not reported,60
+semaglutide: type 2 diabetes,Before July 2023,Other health professional,1777
+semaglutide: type 2 diabetes,Before July 2023,Pharmacist,1006
+semaglutide: type 2 diabetes,Before July 2023,Physician,3186
+semaglutide: type 2 diabetes,July 2023 onward,Consumer,25419
+semaglutide: type 2 diabetes,July 2023 onward,Lawyer,888
+semaglutide: type 2 diabetes,July 2023 onward,Not reported,7442
+semaglutide: type 2 diabetes,July 2023 onward,Other health professional,2394
+semaglutide: type 2 diabetes,July 2023 onward,Pharmacist,1481
+semaglutide: type 2 diabetes,July 2023 onward,Physician,4836
+semaglutide: unknown,Before July 2023,Consumer,53
+semaglutide: unknown,Before July 2023,Not reported,11
+semaglutide: unknown,Before July 2023,Other health professional,56
+semaglutide: unknown,Before July 2023,Pharmacist,79
+semaglutide: unknown,Before July 2023,Physician,53
+semaglutide: unknown,July 2023 onward,Consumer,538
+semaglutide: unknown,July 2023 onward,Not reported,326
+semaglutide: unknown,July 2023 onward,Other health professional,412
+semaglutide: unknown,July 2023 onward,Pharmacist,137
+semaglutide: unknown,July 2023 onward,Physician,303
+semaglutide: weight management,Before July 2023,Consumer,2383
+semaglutide: weight management,Before July 2023,Not reported,25
+semaglutide: weight management,Before July 2023,Other health professional,308
+semaglutide: weight management,Before July 2023,Pharmacist,95
+semaglutide: weight management,Before July 2023,Physician,611
+semaglutide: weight management,July 2023 onward,Consumer,15311
+semaglutide: weight management,July 2023 onward,Lawyer,265
+semaglutide: weight management,July 2023 onward,Not reported,7548
+semaglutide: weight management,July 2023 onward,Other health professional,2421
+semaglutide: weight management,July 2023 onward,Pharmacist,1195
+semaglutide: weight management,July 2023 onward,Physician,3663
+tirzepatide,Before July 2023,Consumer,13771
+tirzepatide,Before July 2023,Lawyer,1
+tirzepatide,Before July 2023,Not reported,30
+tirzepatide,Before July 2023,Other health professional,572
+tirzepatide,Before July 2023,Pharmacist,188
+tirzepatide,Before July 2023,Physician,310
+tirzepatide,July 2023 onward,Consumer,126024
+tirzepatide,July 2023 onward,Lawyer,929
+tirzepatide,July 2023 onward,Not reported,21278
+tirzepatide,July 2023 onward,Other health professional,3914
+tirzepatide,July 2023 onward,Pharmacist,1784
+tirzepatide,July 2023 onward,Physician,3796
+tirzepatide: heart failure or kidney disease,July 2023 onward,Consumer,64
+tirzepatide: heart failure or kidney disease,July 2023 onward,Not reported,13
+tirzepatide: heart failure or kidney disease,July 2023 onward,Other health professional,3
+tirzepatide: heart failure or kidney disease,July 2023 onward,Physician,1
+tirzepatide: other,Before July 2023,Consumer,933
+tirzepatide: other,Before July 2023,Other health professional,33
+tirzepatide: other,Before July 2023,Pharmacist,6
+tirzepatide: other,Before July 2023,Physician,20
+tirzepatide: other,July 2023 onward,Consumer,5946
+tirzepatide: other,July 2023 onward,Lawyer,48
+tirzepatide: other,July 2023 onward,Not reported,1118
+tirzepatide: other,July 2023 onward,Other health professional,142
+tirzepatide: other,July 2023 onward,Pharmacist,42
+tirzepatide: other,July 2023 onward,Physician,120
+tirzepatide: type 2 diabetes,Before July 2023,Consumer,12487
+tirzepatide: type 2 diabetes,Before July 2023,Not reported,22
+tirzepatide: type 2 diabetes,Before July 2023,Other health professional,515
+tirzepatide: type 2 diabetes,Before July 2023,Pharmacist,169
+tirzepatide: type 2 diabetes,Before July 2023,Physician,283
+tirzepatide: type 2 diabetes,July 2023 onward,Consumer,58034
+tirzepatide: type 2 diabetes,July 2023 onward,Lawyer,805
+tirzepatide: type 2 diabetes,July 2023 onward,Not reported,4965
+tirzepatide: type 2 diabetes,July 2023 onward,Other health professional,2099
+tirzepatide: type 2 diabetes,July 2023 onward,Pharmacist,981
+tirzepatide: type 2 diabetes,July 2023 onward,Physician,2111
+tirzepatide: unknown,Before July 2023,Consumer,7
+tirzepatide: unknown,Before July 2023,Lawyer,1
+tirzepatide: unknown,Before July 2023,Not reported,6
+tirzepatide: unknown,Before July 2023,Pharmacist,2
+tirzepatide: unknown,Before July 2023,Physician,1
+tirzepatide: unknown,July 2023 onward,Consumer,842
+tirzepatide: unknown,July 2023 onward,Lawyer,2
+tirzepatide: unknown,July 2023 onward,Not reported,203
+tirzepatide: unknown,July 2023 onward,Other health professional,89
+tirzepatide: unknown,July 2023 onward,Pharmacist,104
+tirzepatide: unknown,July 2023 onward,Physician,108
+tirzepatide: weight management,Before July 2023,Consumer,1622
+tirzepatide: weight management,Before July 2023,Not reported,2
+tirzepatide: weight management,Before July 2023,Other health professional,70
+tirzepatide: weight management,Before July 2023,Pharmacist,20
+tirzepatide: weight management,Before July 2023,Physician,26
+tirzepatide: weight management,July 2023 onward,Consumer,68491
+tirzepatide: weight management,July 2023 onward,Lawyer,292
+tirzepatide: weight management,July 2023 onward,Not reported,16030
+tirzepatide: weight management,July 2023 onward,Other health professional,1762
+tirzepatide: weight management,July 2023 onward,Pharmacist,706
+tirzepatide: weight management,July 2023 onward,Physician,1666

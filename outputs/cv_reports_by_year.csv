@@ -1,0 +1,257 @@
+exposure,year,reports
+GLP-1 RA (any),2019,225
+GLP-1 RA (any),2020,244
+GLP-1 RA (any),2021,303
+GLP-1 RA (any),2022,382
+GLP-1 RA (any),2023,640
+GLP-1 RA (any),2024,931
+GLP-1 RA (any),2025,1276
+GLP-1 RA (any),2026,751
+SGLT2 inhibitor (any),2019,314
+SGLT2 inhibitor (any),2020,341
+SGLT2 inhibitor (any),2021,331
+SGLT2 inhibitor (any),2022,311
+SGLT2 inhibitor (any),2023,340
+SGLT2 inhibitor (any),2024,336
+SGLT2 inhibitor (any),2025,261
+SGLT2 inhibitor (any),2026,134
+canagliflozin,2019,83
+canagliflozin,2020,89
+canagliflozin,2021,59
+canagliflozin,2022,59
+canagliflozin,2023,56
+canagliflozin,2024,56
+canagliflozin,2025,30
+canagliflozin,2026,16
+canagliflozin: heart failure or kidney disease,2024,1
+canagliflozin: heart failure or kidney disease,2025,1
+canagliflozin: other,2019,1
+canagliflozin: other,2020,1
+canagliflozin: other,2022,1
+canagliflozin: other,2023,1
+canagliflozin: other,2024,1
+canagliflozin: other,2025,1
+canagliflozin: type 2 diabetes,2019,57
+canagliflozin: type 2 diabetes,2020,57
+canagliflozin: type 2 diabetes,2021,39
+canagliflozin: type 2 diabetes,2022,32
+canagliflozin: type 2 diabetes,2023,39
+canagliflozin: type 2 diabetes,2024,33
+canagliflozin: type 2 diabetes,2025,14
+canagliflozin: type 2 diabetes,2026,14
+canagliflozin: unknown,2019,25
+canagliflozin: unknown,2020,32
+canagliflozin: unknown,2021,20
+canagliflozin: unknown,2022,27
+canagliflozin: unknown,2023,16
+canagliflozin: unknown,2024,23
+canagliflozin: unknown,2025,15
+canagliflozin: unknown,2026,2
+canagliflozin: weight management,2024,1
+dapagliflozin,2019,53
+dapagliflozin,2020,58
+dapagliflozin,2021,75
+dapagliflozin,2022,56
+dapagliflozin,2023,61
+dapagliflozin,2024,82
+dapagliflozin,2025,75
+dapagliflozin,2026,37
+dapagliflozin: heart failure or kidney disease,2019,1
+dapagliflozin: heart failure or kidney disease,2020,1
+dapagliflozin: heart failure or kidney disease,2021,1
+dapagliflozin: heart failure or kidney disease,2022,8
+dapagliflozin: heart failure or kidney disease,2023,5
+dapagliflozin: heart failure or kidney disease,2024,13
+dapagliflozin: heart failure or kidney disease,2025,12
+dapagliflozin: heart failure or kidney disease,2026,5
+dapagliflozin: other,2019,2
+dapagliflozin: other,2021,1
+dapagliflozin: other,2022,1
+dapagliflozin: other,2023,3
+dapagliflozin: other,2024,8
+dapagliflozin: other,2025,7
+dapagliflozin: other,2026,4
+dapagliflozin: type 2 diabetes,2019,30
+dapagliflozin: type 2 diabetes,2020,35
+dapagliflozin: type 2 diabetes,2021,49
+dapagliflozin: type 2 diabetes,2022,34
+dapagliflozin: type 2 diabetes,2023,28
+dapagliflozin: type 2 diabetes,2024,37
+dapagliflozin: type 2 diabetes,2025,20
+dapagliflozin: type 2 diabetes,2026,12
+dapagliflozin: unknown,2019,22
+dapagliflozin: unknown,2020,22
+dapagliflozin: unknown,2021,24
+dapagliflozin: unknown,2022,14
+dapagliflozin: unknown,2023,27
+dapagliflozin: unknown,2024,32
+dapagliflozin: unknown,2025,44
+dapagliflozin: unknown,2026,19
+dulaglutide,2019,27
+dulaglutide,2020,18
+dulaglutide,2021,10
+dulaglutide,2022,6
+dulaglutide,2023,3
+dulaglutide,2024,6
+dulaglutide,2025,3
+dulaglutide,2026,2
+dulaglutide: other,2025,1
+dulaglutide: type 2 diabetes,2019,19
+dulaglutide: type 2 diabetes,2020,16
+dulaglutide: type 2 diabetes,2021,9
+dulaglutide: type 2 diabetes,2022,4
+dulaglutide: type 2 diabetes,2023,3
+dulaglutide: type 2 diabetes,2024,4
+dulaglutide: type 2 diabetes,2025,3
+dulaglutide: type 2 diabetes,2026,2
+dulaglutide: unknown,2019,8
+dulaglutide: unknown,2020,2
+dulaglutide: unknown,2021,1
+dulaglutide: unknown,2022,2
+dulaglutide: unknown,2024,1
+dulaglutide: weight management,2019,3
+dulaglutide: weight management,2020,2
+dulaglutide: weight management,2024,1
+empagliflozin,2019,179
+empagliflozin,2020,194
+empagliflozin,2021,198
+empagliflozin,2022,197
+empagliflozin,2023,223
+empagliflozin,2024,198
+empagliflozin,2025,156
+empagliflozin,2026,81
+empagliflozin: heart failure or kidney disease,2020,2
+empagliflozin: heart failure or kidney disease,2022,7
+empagliflozin: heart failure or kidney disease,2023,12
+empagliflozin: heart failure or kidney disease,2024,13
+empagliflozin: heart failure or kidney disease,2025,6
+empagliflozin: heart failure or kidney disease,2026,3
+empagliflozin: other,2019,6
+empagliflozin: other,2020,2
+empagliflozin: other,2021,2
+empagliflozin: other,2022,6
+empagliflozin: other,2023,3
+empagliflozin: other,2024,6
+empagliflozin: other,2025,4
+empagliflozin: other,2026,3
+empagliflozin: type 2 diabetes,2019,106
+empagliflozin: type 2 diabetes,2020,115
+empagliflozin: type 2 diabetes,2021,102
+empagliflozin: type 2 diabetes,2022,83
+empagliflozin: type 2 diabetes,2023,93
+empagliflozin: type 2 diabetes,2024,100
+empagliflozin: type 2 diabetes,2025,78
+empagliflozin: type 2 diabetes,2026,43
+empagliflozin: unknown,2019,73
+empagliflozin: unknown,2020,77
+empagliflozin: unknown,2021,95
+empagliflozin: unknown,2022,108
+empagliflozin: unknown,2023,121
+empagliflozin: unknown,2024,91
+empagliflozin: unknown,2025,72
+empagliflozin: unknown,2026,34
+empagliflozin: weight management,2022,1
+exenatide,2019,1
+exenatide: unknown,2019,1
+liraglutide,2019,86
+liraglutide,2020,62
+liraglutide,2021,57
+liraglutide,2022,63
+liraglutide,2023,188
+liraglutide,2024,228
+liraglutide,2025,98
+liraglutide,2026,29
+liraglutide: other,2020,1
+liraglutide: other,2023,1
+liraglutide: other,2024,3
+liraglutide: other,2025,3
+liraglutide: other,2026,1
+liraglutide: type 2 diabetes,2019,30
+liraglutide: type 2 diabetes,2020,12
+liraglutide: type 2 diabetes,2021,7
+liraglutide: type 2 diabetes,2022,9
+liraglutide: type 2 diabetes,2023,5
+liraglutide: type 2 diabetes,2024,3
+liraglutide: type 2 diabetes,2025,7
+liraglutide: unknown,2019,6
+liraglutide: unknown,2020,6
+liraglutide: unknown,2021,5
+liraglutide: unknown,2022,3
+liraglutide: unknown,2023,3
+liraglutide: unknown,2024,6
+liraglutide: unknown,2025,1
+liraglutide: unknown,2026,2
+liraglutide: weight management,2019,52
+liraglutide: weight management,2020,45
+liraglutide: weight management,2021,45
+liraglutide: weight management,2022,53
+liraglutide: weight management,2023,181
+liraglutide: weight management,2024,218
+liraglutide: weight management,2025,89
+liraglutide: weight management,2026,26
+lixisenatide,2020,4
+lixisenatide,2022,2
+lixisenatide,2023,1
+lixisenatide,2025,1
+lixisenatide: type 2 diabetes,2020,4
+lixisenatide: type 2 diabetes,2022,2
+lixisenatide: type 2 diabetes,2023,1
+lixisenatide: type 2 diabetes,2025,1
+semaglutide,2019,112
+semaglutide,2020,160
+semaglutide,2021,236
+semaglutide,2022,314
+semaglutide,2023,446
+semaglutide,2024,667
+semaglutide,2025,1077
+semaglutide,2026,633
+semaglutide: heart failure or kidney disease,2023,1
+semaglutide: heart failure or kidney disease,2025,2
+semaglutide: other,2019,1
+semaglutide: other,2020,3
+semaglutide: other,2021,2
+semaglutide: other,2022,8
+semaglutide: other,2023,15
+semaglutide: other,2024,14
+semaglutide: other,2025,23
+semaglutide: other,2026,12
+semaglutide: type 2 diabetes,2019,98
+semaglutide: type 2 diabetes,2020,126
+semaglutide: type 2 diabetes,2021,195
+semaglutide: type 2 diabetes,2022,198
+semaglutide: type 2 diabetes,2023,245
+semaglutide: type 2 diabetes,2024,207
+semaglutide: type 2 diabetes,2025,227
+semaglutide: type 2 diabetes,2026,110
+semaglutide: unknown,2019,4
+semaglutide: unknown,2020,8
+semaglutide: unknown,2021,7
+semaglutide: unknown,2022,33
+semaglutide: unknown,2023,99
+semaglutide: unknown,2024,154
+semaglutide: unknown,2025,220
+semaglutide: unknown,2026,118
+semaglutide: weight management,2019,14
+semaglutide: weight management,2020,27
+semaglutide: weight management,2021,39
+semaglutide: weight management,2022,112
+semaglutide: weight management,2023,123
+semaglutide: weight management,2024,326
+semaglutide: weight management,2025,642
+semaglutide: weight management,2026,417
+tirzepatide,2023,3
+tirzepatide,2024,33
+tirzepatide,2025,97
+tirzepatide,2026,88
+tirzepatide: other,2024,2
+tirzepatide: other,2025,1
+tirzepatide: type 2 diabetes,2024,20
+tirzepatide: type 2 diabetes,2025,46
+tirzepatide: type 2 diabetes,2026,22
+tirzepatide: unknown,2024,4
+tirzepatide: unknown,2025,17
+tirzepatide: unknown,2026,28
+tirzepatide: weight management,2023,3
+tirzepatide: weight management,2024,9
+tirzepatide: weight management,2025,40
+tirzepatide: weight management,2026,41

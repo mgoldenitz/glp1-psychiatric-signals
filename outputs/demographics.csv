@@ -1,0 +1,839 @@
+exposure,sex,age_band,reports
+GLP-1 RA (any),Female,18 to 29,5039
+GLP-1 RA (any),Female,30 to 44,23429
+GLP-1 RA (any),Female,45 to 64,61167
+GLP-1 RA (any),Female,65 and over,41791
+GLP-1 RA (any),Female,Not reported,74187
+GLP-1 RA (any),Female,Under 18,304
+GLP-1 RA (any),Male,18 to 29,1022
+GLP-1 RA (any),Male,30 to 44,6467
+GLP-1 RA (any),Male,45 to 64,25374
+GLP-1 RA (any),Male,65 and over,23829
+GLP-1 RA (any),Male,Not reported,34389
+GLP-1 RA (any),Male,Under 18,134
+GLP-1 RA (any),Not reported,18 to 29,505
+GLP-1 RA (any),Not reported,30 to 44,2416
+GLP-1 RA (any),Not reported,45 to 64,7024
+GLP-1 RA (any),Not reported,65 and over,4669
+GLP-1 RA (any),Not reported,Not reported,37652
+GLP-1 RA (any),Not reported,Under 18,41
+SGLT2 inhibitor (any),Female,18 to 29,239
+SGLT2 inhibitor (any),Female,30 to 44,1367
+SGLT2 inhibitor (any),Female,45 to 64,6899
+SGLT2 inhibitor (any),Female,65 and over,11053
+SGLT2 inhibitor (any),Female,Not reported,11887
+SGLT2 inhibitor (any),Female,Under 18,47
+SGLT2 inhibitor (any),Male,18 to 29,237
+SGLT2 inhibitor (any),Male,30 to 44,1587
+SGLT2 inhibitor (any),Male,45 to 64,9480
+SGLT2 inhibitor (any),Male,65 and over,14365
+SGLT2 inhibitor (any),Male,Not reported,13775
+SGLT2 inhibitor (any),Male,Under 18,110
+SGLT2 inhibitor (any),Not reported,18 to 29,15
+SGLT2 inhibitor (any),Not reported,30 to 44,70
+SGLT2 inhibitor (any),Not reported,45 to 64,332
+SGLT2 inhibitor (any),Not reported,65 and over,927
+SGLT2 inhibitor (any),Not reported,Not reported,9143
+SGLT2 inhibitor (any),Not reported,Under 18,21
+bexagliflozin,Female,65 and over,1
+bexagliflozin,Not reported,Not reported,3
+bexagliflozin: type 2 diabetes,Female,65 and over,1
+bexagliflozin: type 2 diabetes,Not reported,Not reported,2
+bexagliflozin: unknown,Not reported,Not reported,1
+canagliflozin,Female,18 to 29,12
+canagliflozin,Female,30 to 44,179
+canagliflozin,Female,45 to 64,828
+canagliflozin,Female,65 and over,594
+canagliflozin,Female,Not reported,423
+canagliflozin,Female,Under 18,4
+canagliflozin,Male,18 to 29,22
+canagliflozin,Male,30 to 44,222
+canagliflozin,Male,45 to 64,1389
+canagliflozin,Male,65 and over,750
+canagliflozin,Male,Not reported,446
+canagliflozin,Male,Under 18,30
+canagliflozin,Not reported,30 to 44,2
+canagliflozin,Not reported,45 to 64,30
+canagliflozin,Not reported,65 and over,16
+canagliflozin,Not reported,Not reported,360
+canagliflozin: heart failure or kidney disease,Female,45 to 64,2
+canagliflozin: heart failure or kidney disease,Female,65 and over,10
+canagliflozin: heart failure or kidney disease,Male,45 to 64,6
+canagliflozin: heart failure or kidney disease,Male,65 and over,13
+canagliflozin: heart failure or kidney disease,Male,Not reported,3
+canagliflozin: heart failure or kidney disease,Not reported,Not reported,5
+canagliflozin: other,Female,30 to 44,3
+canagliflozin: other,Female,45 to 64,10
+canagliflozin: other,Female,65 and over,8
+canagliflozin: other,Female,Not reported,4
+canagliflozin: other,Female,Under 18,1
+canagliflozin: other,Male,18 to 29,2
+canagliflozin: other,Male,30 to 44,2
+canagliflozin: other,Male,45 to 64,10
+canagliflozin: other,Male,65 and over,9
+canagliflozin: other,Male,Not reported,3
+canagliflozin: other,Not reported,Not reported,6
+canagliflozin: type 2 diabetes,Female,18 to 29,10
+canagliflozin: type 2 diabetes,Female,30 to 44,121
+canagliflozin: type 2 diabetes,Female,45 to 64,487
+canagliflozin: type 2 diabetes,Female,65 and over,369
+canagliflozin: type 2 diabetes,Female,Not reported,109
+canagliflozin: type 2 diabetes,Female,Under 18,1
+canagliflozin: type 2 diabetes,Male,18 to 29,17
+canagliflozin: type 2 diabetes,Male,30 to 44,134
+canagliflozin: type 2 diabetes,Male,45 to 64,782
+canagliflozin: type 2 diabetes,Male,65 and over,496
+canagliflozin: type 2 diabetes,Male,Not reported,127
+canagliflozin: type 2 diabetes,Male,Under 18,23
+canagliflozin: type 2 diabetes,Not reported,30 to 44,1
+canagliflozin: type 2 diabetes,Not reported,45 to 64,12
+canagliflozin: type 2 diabetes,Not reported,65 and over,7
+canagliflozin: type 2 diabetes,Not reported,Not reported,110
+canagliflozin: unknown,Female,18 to 29,2
+canagliflozin: unknown,Female,30 to 44,55
+canagliflozin: unknown,Female,45 to 64,333
+canagliflozin: unknown,Female,65 and over,215
+canagliflozin: unknown,Female,Not reported,310
+canagliflozin: unknown,Female,Under 18,2
+canagliflozin: unknown,Male,18 to 29,5
+canagliflozin: unknown,Male,30 to 44,87
+canagliflozin: unknown,Male,45 to 64,596
+canagliflozin: unknown,Male,65 and over,243
+canagliflozin: unknown,Male,Not reported,315
+canagliflozin: unknown,Male,Under 18,7
+canagliflozin: unknown,Not reported,30 to 44,1
+canagliflozin: unknown,Not reported,45 to 64,18
+canagliflozin: unknown,Not reported,65 and over,9
+canagliflozin: unknown,Not reported,Not reported,246
+canagliflozin: weight management,Female,30 to 44,2
+canagliflozin: weight management,Female,Not reported,1
+canagliflozin: weight management,Male,45 to 64,2
+canagliflozin: weight management,Not reported,Not reported,3
+dapagliflozin,Female,18 to 29,113
+dapagliflozin,Female,30 to 44,525
+dapagliflozin,Female,45 to 64,2716
+dapagliflozin,Female,65 and over,5019
+dapagliflozin,Female,Not reported,6535
+dapagliflozin,Female,Under 18,23
+dapagliflozin,Male,18 to 29,91
+dapagliflozin,Male,30 to 44,645
+dapagliflozin,Male,45 to 64,3647
+dapagliflozin,Male,65 and over,6869
+dapagliflozin,Male,Not reported,8026
+dapagliflozin,Male,Under 18,26
+dapagliflozin,Not reported,18 to 29,6
+dapagliflozin,Not reported,30 to 44,36
+dapagliflozin,Not reported,45 to 64,155
+dapagliflozin,Not reported,65 and over,589
+dapagliflozin,Not reported,Not reported,4510
+dapagliflozin,Not reported,Under 18,21
+dapagliflozin: heart failure or kidney disease,Female,18 to 29,6
+dapagliflozin: heart failure or kidney disease,Female,30 to 44,53
+dapagliflozin: heart failure or kidney disease,Female,45 to 64,192
+dapagliflozin: heart failure or kidney disease,Female,65 and over,805
+dapagliflozin: heart failure or kidney disease,Female,Not reported,390
+dapagliflozin: heart failure or kidney disease,Female,Under 18,5
+dapagliflozin: heart failure or kidney disease,Male,18 to 29,21
+dapagliflozin: heart failure or kidney disease,Male,30 to 44,86
+dapagliflozin: heart failure or kidney disease,Male,45 to 64,422
+dapagliflozin: heart failure or kidney disease,Male,65 and over,1297
+dapagliflozin: heart failure or kidney disease,Male,Not reported,560
+dapagliflozin: heart failure or kidney disease,Male,Under 18,8
+dapagliflozin: heart failure or kidney disease,Not reported,30 to 44,4
+dapagliflozin: heart failure or kidney disease,Not reported,45 to 64,12
+dapagliflozin: heart failure or kidney disease,Not reported,65 and over,55
+dapagliflozin: heart failure or kidney disease,Not reported,Not reported,527
+dapagliflozin: heart failure or kidney disease,Not reported,Under 18,2
+dapagliflozin: other,Female,18 to 29,16
+dapagliflozin: other,Female,30 to 44,42
+dapagliflozin: other,Female,45 to 64,229
+dapagliflozin: other,Female,65 and over,401
+dapagliflozin: other,Female,Not reported,150
+dapagliflozin: other,Female,Under 18,5
+dapagliflozin: other,Male,18 to 29,12
+dapagliflozin: other,Male,30 to 44,90
+dapagliflozin: other,Male,45 to 64,461
+dapagliflozin: other,Male,65 and over,563
+dapagliflozin: other,Male,Not reported,145
+dapagliflozin: other,Male,Under 18,7
+dapagliflozin: other,Not reported,30 to 44,5
+dapagliflozin: other,Not reported,45 to 64,23
+dapagliflozin: other,Not reported,65 and over,59
+dapagliflozin: other,Not reported,Not reported,265
+dapagliflozin: other,Not reported,Under 18,5
+dapagliflozin: type 2 diabetes,Female,18 to 29,64
+dapagliflozin: type 2 diabetes,Female,30 to 44,347
+dapagliflozin: type 2 diabetes,Female,45 to 64,1744
+dapagliflozin: type 2 diabetes,Female,65 and over,2274
+dapagliflozin: type 2 diabetes,Female,Not reported,983
+dapagliflozin: type 2 diabetes,Female,Under 18,6
+dapagliflozin: type 2 diabetes,Male,18 to 29,42
+dapagliflozin: type 2 diabetes,Male,30 to 44,385
+dapagliflozin: type 2 diabetes,Male,45 to 64,2018
+dapagliflozin: type 2 diabetes,Male,65 and over,2662
+dapagliflozin: type 2 diabetes,Male,Not reported,976
+dapagliflozin: type 2 diabetes,Male,Under 18,5
+dapagliflozin: type 2 diabetes,Not reported,30 to 44,21
+dapagliflozin: type 2 diabetes,Not reported,45 to 64,42
+dapagliflozin: type 2 diabetes,Not reported,65 and over,106
+dapagliflozin: type 2 diabetes,Not reported,Not reported,698
+dapagliflozin: unknown,Female,18 to 29,28
+dapagliflozin: unknown,Female,30 to 44,93
+dapagliflozin: unknown,Female,45 to 64,632
+dapagliflozin: unknown,Female,65 and over,1728
+dapagliflozin: unknown,Female,Not reported,5104
+dapagliflozin: unknown,Female,Under 18,7
+dapagliflozin: unknown,Male,18 to 29,20
+dapagliflozin: unknown,Male,30 to 44,126
+dapagliflozin: unknown,Male,45 to 64,926
+dapagliflozin: unknown,Male,65 and over,2568
+dapagliflozin: unknown,Male,Not reported,6447
+dapagliflozin: unknown,Male,Under 18,6
+dapagliflozin: unknown,Not reported,18 to 29,6
+dapagliflozin: unknown,Not reported,30 to 44,7
+dapagliflozin: unknown,Not reported,45 to 64,81
+dapagliflozin: unknown,Not reported,65 and over,381
+dapagliflozin: unknown,Not reported,Not reported,3142
+dapagliflozin: unknown,Not reported,Under 18,14
+dapagliflozin: weight management,Female,18 to 29,2
+dapagliflozin: weight management,Female,30 to 44,5
+dapagliflozin: weight management,Female,45 to 64,23
+dapagliflozin: weight management,Female,65 and over,11
+dapagliflozin: weight management,Female,Not reported,17
+dapagliflozin: weight management,Male,18 to 29,1
+dapagliflozin: weight management,Male,30 to 44,21
+dapagliflozin: weight management,Male,45 to 64,48
+dapagliflozin: weight management,Male,65 and over,4
+dapagliflozin: weight management,Male,Not reported,3
+dapagliflozin: weight management,Not reported,Not reported,3
+dulaglutide,Female,18 to 29,177
+dulaglutide,Female,30 to 44,1211
+dulaglutide,Female,45 to 64,6370
+dulaglutide,Female,65 and over,6236
+dulaglutide,Female,Not reported,16503
+dulaglutide,Female,Under 18,27
+dulaglutide,Male,18 to 29,73
+dulaglutide,Male,30 to 44,627
+dulaglutide,Male,45 to 64,4641
+dulaglutide,Male,65 and over,4908
+dulaglutide,Male,Not reported,11690
+dulaglutide,Male,Under 18,20
+dulaglutide,Not reported,18 to 29,12
+dulaglutide,Not reported,30 to 44,153
+dulaglutide,Not reported,45 to 64,803
+dulaglutide,Not reported,65 and over,724
+dulaglutide,Not reported,Not reported,6080
+dulaglutide,Not reported,Under 18,2
+dulaglutide: heart failure or kidney disease,Female,45 to 64,3
+dulaglutide: heart failure or kidney disease,Female,65 and over,3
+dulaglutide: heart failure or kidney disease,Female,Not reported,5
+dulaglutide: heart failure or kidney disease,Male,45 to 64,1
+dulaglutide: heart failure or kidney disease,Male,65 and over,3
+dulaglutide: heart failure or kidney disease,Male,Not reported,1
+dulaglutide: heart failure or kidney disease,Not reported,Not reported,1
+dulaglutide: other,Female,18 to 29,6
+dulaglutide: other,Female,30 to 44,39
+dulaglutide: other,Female,45 to 64,116
+dulaglutide: other,Female,65 and over,82
+dulaglutide: other,Female,Not reported,133
+dulaglutide: other,Female,Under 18,2
+dulaglutide: other,Male,30 to 44,9
+dulaglutide: other,Male,45 to 64,60
+dulaglutide: other,Male,65 and over,34
+dulaglutide: other,Male,Not reported,53
+dulaglutide: other,Not reported,30 to 44,9
+dulaglutide: other,Not reported,45 to 64,34
+dulaglutide: other,Not reported,65 and over,10
+dulaglutide: other,Not reported,Not reported,11
+dulaglutide: type 2 diabetes,Female,18 to 29,163
+dulaglutide: type 2 diabetes,Female,30 to 44,1162
+dulaglutide: type 2 diabetes,Female,45 to 64,6237
+dulaglutide: type 2 diabetes,Female,65 and over,6117
+dulaglutide: type 2 diabetes,Female,Not reported,16362
+dulaglutide: type 2 diabetes,Female,Under 18,25
+dulaglutide: type 2 diabetes,Male,18 to 29,71
+dulaglutide: type 2 diabetes,Male,30 to 44,617
+dulaglutide: type 2 diabetes,Male,45 to 64,4553
+dulaglutide: type 2 diabetes,Male,65 and over,4820
+dulaglutide: type 2 diabetes,Male,Not reported,11621
+dulaglutide: type 2 diabetes,Male,Under 18,20
+dulaglutide: type 2 diabetes,Not reported,18 to 29,11
+dulaglutide: type 2 diabetes,Not reported,30 to 44,148
+dulaglutide: type 2 diabetes,Not reported,45 to 64,795
+dulaglutide: type 2 diabetes,Not reported,65 and over,720
+dulaglutide: type 2 diabetes,Not reported,Not reported,6043
+dulaglutide: type 2 diabetes,Not reported,Under 18,2
+dulaglutide: unknown,Female,30 to 44,8
+dulaglutide: unknown,Female,45 to 64,34
+dulaglutide: unknown,Female,65 and over,50
+dulaglutide: unknown,Female,Not reported,20
+dulaglutide: unknown,Male,30 to 44,1
+dulaglutide: unknown,Male,45 to 64,42
+dulaglutide: unknown,Male,65 and over,56
+dulaglutide: unknown,Male,Not reported,20
+dulaglutide: unknown,Not reported,30 to 44,1
+dulaglutide: unknown,Not reported,45 to 64,2
+dulaglutide: unknown,Not reported,65 and over,2
+dulaglutide: unknown,Not reported,Not reported,18
+dulaglutide: weight management,Female,18 to 29,18
+dulaglutide: weight management,Female,30 to 44,91
+dulaglutide: weight management,Female,45 to 64,284
+dulaglutide: weight management,Female,65 and over,123
+dulaglutide: weight management,Female,Not reported,152
+dulaglutide: weight management,Female,Under 18,2
+dulaglutide: weight management,Male,18 to 29,7
+dulaglutide: weight management,Male,30 to 44,23
+dulaglutide: weight management,Male,45 to 64,93
+dulaglutide: weight management,Male,65 and over,52
+dulaglutide: weight management,Male,Not reported,64
+dulaglutide: weight management,Not reported,18 to 29,1
+dulaglutide: weight management,Not reported,30 to 44,9
+dulaglutide: weight management,Not reported,45 to 64,47
+dulaglutide: weight management,Not reported,65 and over,14
+dulaglutide: weight management,Not reported,Not reported,23
+empagliflozin,Female,18 to 29,109
+empagliflozin,Female,30 to 44,626
+empagliflozin,Female,45 to 64,3260
+empagliflozin,Female,65 and over,5424
+empagliflozin,Female,Not reported,4777
+empagliflozin,Female,Under 18,20
+empagliflozin,Male,18 to 29,123
+empagliflozin,Male,30 to 44,690
+empagliflozin,Male,45 to 64,4364
+empagliflozin,Male,65 and over,6736
+empagliflozin,Male,Not reported,5158
+empagliflozin,Male,Under 18,54
+empagliflozin,Not reported,18 to 29,9
+empagliflozin,Not reported,30 to 44,30
+empagliflozin,Not reported,45 to 64,148
+empagliflozin,Not reported,65 and over,320
+empagliflozin,Not reported,Not reported,4303
+empagliflozin: heart failure or kidney disease,Female,18 to 29,12
+empagliflozin: heart failure or kidney disease,Female,30 to 44,18
+empagliflozin: heart failure or kidney disease,Female,45 to 64,120
+empagliflozin: heart failure or kidney disease,Female,65 and over,645
+empagliflozin: heart failure or kidney disease,Female,Not reported,157
+empagliflozin: heart failure or kidney disease,Male,18 to 29,9
+empagliflozin: heart failure or kidney disease,Male,30 to 44,22
+empagliflozin: heart failure or kidney disease,Male,45 to 64,207
+empagliflozin: heart failure or kidney disease,Male,65 and over,874
+empagliflozin: heart failure or kidney disease,Male,Not reported,216
+empagliflozin: heart failure or kidney disease,Male,Under 18,1
+empagliflozin: heart failure or kidney disease,Not reported,18 to 29,1
+empagliflozin: heart failure or kidney disease,Not reported,45 to 64,3
+empagliflozin: heart failure or kidney disease,Not reported,65 and over,27
+empagliflozin: heart failure or kidney disease,Not reported,Not reported,180
+empagliflozin: other,Female,18 to 29,6
+empagliflozin: other,Female,30 to 44,18
+empagliflozin: other,Female,45 to 64,100
+empagliflozin: other,Female,65 and over,233
+empagliflozin: other,Female,Not reported,84
+empagliflozin: other,Female,Under 18,6
+empagliflozin: other,Male,18 to 29,9
+empagliflozin: other,Male,30 to 44,13
+empagliflozin: other,Male,45 to 64,124
+empagliflozin: other,Male,65 and over,308
+empagliflozin: other,Male,Not reported,104
+empagliflozin: other,Male,Under 18,11
+empagliflozin: other,Not reported,18 to 29,3
+empagliflozin: other,Not reported,45 to 64,6
+empagliflozin: other,Not reported,65 and over,2
+empagliflozin: other,Not reported,Not reported,60
+empagliflozin: type 2 diabetes,Female,18 to 29,63
+empagliflozin: type 2 diabetes,Female,30 to 44,430
+empagliflozin: type 2 diabetes,Female,45 to 64,2030
+empagliflozin: type 2 diabetes,Female,65 and over,2659
+empagliflozin: type 2 diabetes,Female,Not reported,1352
+empagliflozin: type 2 diabetes,Female,Under 18,8
+empagliflozin: type 2 diabetes,Male,18 to 29,69
+empagliflozin: type 2 diabetes,Male,30 to 44,474
+empagliflozin: type 2 diabetes,Male,45 to 64,2795
+empagliflozin: type 2 diabetes,Male,65 and over,3603
+empagliflozin: type 2 diabetes,Male,Not reported,1534
+empagliflozin: type 2 diabetes,Male,Under 18,12
+empagliflozin: type 2 diabetes,Not reported,18 to 29,3
+empagliflozin: type 2 diabetes,Not reported,30 to 44,11
+empagliflozin: type 2 diabetes,Not reported,45 to 64,69
+empagliflozin: type 2 diabetes,Not reported,65 and over,76
+empagliflozin: type 2 diabetes,Not reported,Not reported,733
+empagliflozin: unknown,Female,18 to 29,28
+empagliflozin: unknown,Female,30 to 44,163
+empagliflozin: unknown,Female,45 to 64,1054
+empagliflozin: unknown,Female,65 and over,2076
+empagliflozin: unknown,Female,Not reported,3238
+empagliflozin: unknown,Female,Under 18,5
+empagliflozin: unknown,Male,18 to 29,38
+empagliflozin: unknown,Male,30 to 44,188
+empagliflozin: unknown,Male,45 to 64,1320
+empagliflozin: unknown,Male,65 and over,2237
+empagliflozin: unknown,Male,Not reported,3376
+empagliflozin: unknown,Male,Under 18,30
+empagliflozin: unknown,Not reported,18 to 29,2
+empagliflozin: unknown,Not reported,30 to 44,19
+empagliflozin: unknown,Not reported,45 to 64,73
+empagliflozin: unknown,Not reported,65 and over,219
+empagliflozin: unknown,Not reported,Not reported,3363
+empagliflozin: weight management,Female,30 to 44,4
+empagliflozin: weight management,Female,45 to 64,8
+empagliflozin: weight management,Female,65 and over,10
+empagliflozin: weight management,Female,Not reported,10
+empagliflozin: weight management,Female,Under 18,1
+empagliflozin: weight management,Male,45 to 64,7
+empagliflozin: weight management,Male,65 and over,6
+empagliflozin: weight management,Male,Not reported,6
+empagliflozin: weight management,Not reported,45 to 64,1
+empagliflozin: weight management,Not reported,65 and over,2
+empagliflozin: weight management,Not reported,Not reported,4
+ertugliflozin,Female,18 to 29,5
+ertugliflozin,Female,30 to 44,38
+ertugliflozin,Female,45 to 64,112
+ertugliflozin,Female,65 and over,73
+ertugliflozin,Female,Not reported,179
+ertugliflozin,Male,18 to 29,1
+ertugliflozin,Male,30 to 44,44
+ertugliflozin,Male,45 to 64,113
+ertugliflozin,Male,65 and over,65
+ertugliflozin,Male,Not reported,166
+ertugliflozin,Not reported,30 to 44,2
+ertugliflozin,Not reported,65 and over,3
+ertugliflozin,Not reported,Not reported,44
+ertugliflozin: heart failure or kidney disease,Male,45 to 64,1
+ertugliflozin: heart failure or kidney disease,Male,65 and over,1
+ertugliflozin: other,Female,45 to 64,1
+ertugliflozin: other,Female,65 and over,1
+ertugliflozin: other,Female,Not reported,3
+ertugliflozin: other,Male,65 and over,2
+ertugliflozin: type 2 diabetes,Female,18 to 29,5
+ertugliflozin: type 2 diabetes,Female,30 to 44,35
+ertugliflozin: type 2 diabetes,Female,45 to 64,94
+ertugliflozin: type 2 diabetes,Female,65 and over,59
+ertugliflozin: type 2 diabetes,Female,Not reported,93
+ertugliflozin: type 2 diabetes,Male,18 to 29,1
+ertugliflozin: type 2 diabetes,Male,30 to 44,41
+ertugliflozin: type 2 diabetes,Male,45 to 64,96
+ertugliflozin: type 2 diabetes,Male,65 and over,52
+ertugliflozin: type 2 diabetes,Male,Not reported,78
+ertugliflozin: type 2 diabetes,Not reported,30 to 44,2
+ertugliflozin: type 2 diabetes,Not reported,65 and over,2
+ertugliflozin: type 2 diabetes,Not reported,Not reported,8
+ertugliflozin: unknown,Female,30 to 44,3
+ertugliflozin: unknown,Female,45 to 64,17
+ertugliflozin: unknown,Female,65 and over,13
+ertugliflozin: unknown,Female,Not reported,85
+ertugliflozin: unknown,Male,30 to 44,3
+ertugliflozin: unknown,Male,45 to 64,17
+ertugliflozin: unknown,Male,65 and over,10
+ertugliflozin: unknown,Male,Not reported,88
+ertugliflozin: unknown,Not reported,65 and over,1
+ertugliflozin: unknown,Not reported,Not reported,36
+ertugliflozin: weight management,Female,30 to 44,1
+ertugliflozin: weight management,Male,45 to 64,1
+exenatide,Female,18 to 29,24
+exenatide,Female,30 to 44,221
+exenatide,Female,45 to 64,1717
+exenatide,Female,65 and over,2262
+exenatide,Female,Not reported,3390
+exenatide,Female,Under 18,6
+exenatide,Male,18 to 29,13
+exenatide,Male,30 to 44,130
+exenatide,Male,45 to 64,1455
+exenatide,Male,65 and over,2162
+exenatide,Male,Not reported,3084
+exenatide,Male,Under 18,4
+exenatide,Not reported,30 to 44,7
+exenatide,Not reported,45 to 64,89
+exenatide,Not reported,65 and over,170
+exenatide,Not reported,Not reported,755
+exenatide: heart failure or kidney disease,Female,18 to 29,1
+exenatide: heart failure or kidney disease,Female,45 to 64,3
+exenatide: heart failure or kidney disease,Female,65 and over,2
+exenatide: heart failure or kidney disease,Female,Not reported,1
+exenatide: heart failure or kidney disease,Male,18 to 29,1
+exenatide: heart failure or kidney disease,Male,65 and over,4
+exenatide: other,Female,18 to 29,5
+exenatide: other,Female,30 to 44,10
+exenatide: other,Female,45 to 64,48
+exenatide: other,Female,65 and over,38
+exenatide: other,Female,Not reported,40
+exenatide: other,Male,18 to 29,1
+exenatide: other,Male,45 to 64,30
+exenatide: other,Male,65 and over,27
+exenatide: other,Male,Not reported,50
+exenatide: other,Not reported,45 to 64,1
+exenatide: other,Not reported,65 and over,3
+exenatide: other,Not reported,Not reported,3
+exenatide: type 2 diabetes,Female,18 to 29,19
+exenatide: type 2 diabetes,Female,30 to 44,206
+exenatide: type 2 diabetes,Female,45 to 64,1681
+exenatide: type 2 diabetes,Female,65 and over,2226
+exenatide: type 2 diabetes,Female,Not reported,3329
+exenatide: type 2 diabetes,Female,Under 18,6
+exenatide: type 2 diabetes,Male,18 to 29,10
+exenatide: type 2 diabetes,Male,30 to 44,129
+exenatide: type 2 diabetes,Male,45 to 64,1430
+exenatide: type 2 diabetes,Male,65 and over,2137
+exenatide: type 2 diabetes,Male,Not reported,3025
+exenatide: type 2 diabetes,Male,Under 18,4
+exenatide: type 2 diabetes,Not reported,30 to 44,7
+exenatide: type 2 diabetes,Not reported,45 to 64,87
+exenatide: type 2 diabetes,Not reported,65 and over,169
+exenatide: type 2 diabetes,Not reported,Not reported,744
+exenatide: unknown,Female,45 to 64,6
+exenatide: unknown,Female,65 and over,7
+exenatide: unknown,Female,Not reported,17
+exenatide: unknown,Male,18 to 29,1
+exenatide: unknown,Male,45 to 64,5
+exenatide: unknown,Male,65 and over,2
+exenatide: unknown,Male,Not reported,11
+exenatide: unknown,Not reported,45 to 64,1
+exenatide: unknown,Not reported,Not reported,7
+exenatide: weight management,Female,18 to 29,2
+exenatide: weight management,Female,30 to 44,9
+exenatide: weight management,Female,45 to 64,32
+exenatide: weight management,Female,65 and over,27
+exenatide: weight management,Female,Not reported,33
+exenatide: weight management,Male,30 to 44,3
+exenatide: weight management,Male,45 to 64,11
+exenatide: weight management,Male,65 and over,12
+exenatide: weight management,Male,Not reported,20
+exenatide: weight management,Not reported,Not reported,3
+liraglutide,Female,18 to 29,188
+liraglutide,Female,30 to 44,906
+liraglutide,Female,45 to 64,2236
+liraglutide,Female,65 and over,1368
+liraglutide,Female,Not reported,3414
+liraglutide,Female,Under 18,45
+liraglutide,Male,18 to 29,36
+liraglutide,Male,30 to 44,231
+liraglutide,Male,45 to 64,948
+liraglutide,Male,65 and over,1100
+liraglutide,Male,Not reported,1128
+liraglutide,Male,Under 18,24
+liraglutide,Not reported,18 to 29,13
+liraglutide,Not reported,30 to 44,70
+liraglutide,Not reported,45 to 64,194
+liraglutide,Not reported,65 and over,102
+liraglutide,Not reported,Not reported,595
+liraglutide,Not reported,Under 18,6
+liraglutide: heart failure or kidney disease,Female,45 to 64,4
+liraglutide: heart failure or kidney disease,Male,45 to 64,1
+liraglutide: heart failure or kidney disease,Male,65 and over,1
+liraglutide: other,Female,18 to 29,11
+liraglutide: other,Female,30 to 44,42
+liraglutide: other,Female,45 to 64,78
+liraglutide: other,Female,65 and over,26
+liraglutide: other,Female,Not reported,66
+liraglutide: other,Female,Under 18,11
+liraglutide: other,Male,18 to 29,2
+liraglutide: other,Male,30 to 44,16
+liraglutide: other,Male,45 to 64,21
+liraglutide: other,Male,65 and over,19
+liraglutide: other,Male,Not reported,10
+liraglutide: other,Male,Under 18,2
+liraglutide: other,Not reported,18 to 29,1
+liraglutide: other,Not reported,30 to 44,16
+liraglutide: other,Not reported,45 to 64,36
+liraglutide: other,Not reported,65 and over,14
+liraglutide: other,Not reported,Not reported,5
+liraglutide: type 2 diabetes,Female,18 to 29,42
+liraglutide: type 2 diabetes,Female,30 to 44,257
+liraglutide: type 2 diabetes,Female,45 to 64,1190
+liraglutide: type 2 diabetes,Female,65 and over,1118
+liraglutide: type 2 diabetes,Female,Not reported,1783
+liraglutide: type 2 diabetes,Female,Under 18,14
+liraglutide: type 2 diabetes,Male,18 to 29,14
+liraglutide: type 2 diabetes,Male,30 to 44,129
+liraglutide: type 2 diabetes,Male,45 to 64,720
+liraglutide: type 2 diabetes,Male,65 and over,886
+liraglutide: type 2 diabetes,Male,Not reported,821
+liraglutide: type 2 diabetes,Male,Under 18,5
+liraglutide: type 2 diabetes,Not reported,18 to 29,5
+liraglutide: type 2 diabetes,Not reported,30 to 44,33
+liraglutide: type 2 diabetes,Not reported,45 to 64,140
+liraglutide: type 2 diabetes,Not reported,65 and over,76
+liraglutide: type 2 diabetes,Not reported,Not reported,306
+liraglutide: type 2 diabetes,Not reported,Under 18,5
+liraglutide: unknown,Female,18 to 29,11
+liraglutide: unknown,Female,30 to 44,43
+liraglutide: unknown,Female,45 to 64,46
+liraglutide: unknown,Female,65 and over,29
+liraglutide: unknown,Female,Not reported,154
+liraglutide: unknown,Male,30 to 44,11
+liraglutide: unknown,Male,45 to 64,44
+liraglutide: unknown,Male,65 and over,144
+liraglutide: unknown,Male,Not reported,57
+liraglutide: unknown,Male,Under 18,1
+liraglutide: unknown,Not reported,18 to 29,1
+liraglutide: unknown,Not reported,30 to 44,2
+liraglutide: unknown,Not reported,45 to 64,9
+liraglutide: unknown,Not reported,65 and over,18
+liraglutide: unknown,Not reported,Not reported,122
+liraglutide: weight management,Female,18 to 29,139
+liraglutide: weight management,Female,30 to 44,636
+liraglutide: weight management,Female,45 to 64,1091
+liraglutide: weight management,Female,65 and over,248
+liraglutide: weight management,Female,Not reported,1493
+liraglutide: weight management,Female,Under 18,34
+liraglutide: weight management,Male,18 to 29,25
+liraglutide: weight management,Male,30 to 44,95
+liraglutide: weight management,Male,45 to 64,224
+liraglutide: weight management,Male,65 and over,79
+liraglutide: weight management,Male,Not reported,263
+liraglutide: weight management,Male,Under 18,18
+liraglutide: weight management,Not reported,18 to 29,9
+liraglutide: weight management,Not reported,30 to 44,50
+liraglutide: weight management,Not reported,45 to 64,91
+liraglutide: weight management,Not reported,65 and over,31
+liraglutide: weight management,Not reported,Not reported,169
+liraglutide: weight management,Not reported,Under 18,1
+lixisenatide,Female,18 to 29,6
+lixisenatide,Female,30 to 44,47
+lixisenatide,Female,45 to 64,339
+lixisenatide,Female,65 and over,687
+lixisenatide,Female,Not reported,340
+lixisenatide,Male,18 to 29,1
+lixisenatide,Male,30 to 44,29
+lixisenatide,Male,45 to 64,291
+lixisenatide,Male,65 and over,530
+lixisenatide,Male,Not reported,259
+lixisenatide,Male,Under 18,1
+lixisenatide,Not reported,18 to 29,1
+lixisenatide,Not reported,30 to 44,7
+lixisenatide,Not reported,45 to 64,44
+lixisenatide,Not reported,65 and over,59
+lixisenatide,Not reported,Not reported,377
+lixisenatide: heart failure or kidney disease,Male,65 and over,1
+lixisenatide: other,Female,30 to 44,1
+lixisenatide: other,Female,45 to 64,3
+lixisenatide: other,Female,Not reported,2
+lixisenatide: other,Male,45 to 64,1
+lixisenatide: other,Male,65 and over,2
+lixisenatide: other,Male,Not reported,1
+lixisenatide: other,Not reported,45 to 64,1
+lixisenatide: other,Not reported,65 and over,3
+lixisenatide: other,Not reported,Not reported,2
+lixisenatide: type 2 diabetes,Female,18 to 29,6
+lixisenatide: type 2 diabetes,Female,30 to 44,45
+lixisenatide: type 2 diabetes,Female,45 to 64,329
+lixisenatide: type 2 diabetes,Female,65 and over,680
+lixisenatide: type 2 diabetes,Female,Not reported,335
+lixisenatide: type 2 diabetes,Male,18 to 29,1
+lixisenatide: type 2 diabetes,Male,30 to 44,26
+lixisenatide: type 2 diabetes,Male,45 to 64,277
+lixisenatide: type 2 diabetes,Male,65 and over,518
+lixisenatide: type 2 diabetes,Male,Not reported,257
+lixisenatide: type 2 diabetes,Male,Under 18,1
+lixisenatide: type 2 diabetes,Not reported,18 to 29,1
+lixisenatide: type 2 diabetes,Not reported,30 to 44,7
+lixisenatide: type 2 diabetes,Not reported,45 to 64,39
+lixisenatide: type 2 diabetes,Not reported,65 and over,56
+lixisenatide: type 2 diabetes,Not reported,Not reported,372
+lixisenatide: unknown,Female,30 to 44,1
+lixisenatide: unknown,Female,45 to 64,7
+lixisenatide: unknown,Female,65 and over,7
+lixisenatide: unknown,Female,Not reported,4
+lixisenatide: unknown,Male,30 to 44,3
+lixisenatide: unknown,Male,45 to 64,14
+lixisenatide: unknown,Male,65 and over,11
+lixisenatide: unknown,Male,Not reported,2
+lixisenatide: unknown,Not reported,45 to 64,4
+lixisenatide: unknown,Not reported,Not reported,2
+lixisenatide: weight management,Not reported,Not reported,1
+semaglutide,Female,18 to 29,1176
+semaglutide,Female,30 to 44,4738
+semaglutide,Female,45 to 64,13056
+semaglutide,Female,65 and over,10936
+semaglutide,Female,Not reported,24248
+semaglutide,Female,Under 18,163
+semaglutide,Male,18 to 29,253
+semaglutide,Male,30 to 44,1466
+semaglutide,Male,45 to 64,6258
+semaglutide,Male,65 and over,6991
+semaglutide,Male,Not reported,10470
+semaglutide,Male,Under 18,75
+semaglutide,Not reported,18 to 29,93
+semaglutide,Not reported,30 to 44,471
+semaglutide,Not reported,45 to 64,1662
+semaglutide,Not reported,65 and over,1039
+semaglutide,Not reported,Not reported,6911
+semaglutide,Not reported,Under 18,14
+semaglutide: heart failure or kidney disease,Female,18 to 29,1
+semaglutide: heart failure or kidney disease,Female,30 to 44,2
+semaglutide: heart failure or kidney disease,Female,45 to 64,24
+semaglutide: heart failure or kidney disease,Female,65 and over,76
+semaglutide: heart failure or kidney disease,Female,Not reported,75
+semaglutide: heart failure or kidney disease,Male,45 to 64,16
+semaglutide: heart failure or kidney disease,Male,65 and over,56
+semaglutide: heart failure or kidney disease,Male,Not reported,42
+semaglutide: heart failure or kidney disease,Not reported,45 to 64,3
+semaglutide: heart failure or kidney disease,Not reported,65 and over,3
+semaglutide: heart failure or kidney disease,Not reported,Not reported,11
+semaglutide: other,Female,18 to 29,98
+semaglutide: other,Female,30 to 44,380
+semaglutide: other,Female,45 to 64,991
+semaglutide: other,Female,65 and over,927
+semaglutide: other,Female,Not reported,1148
+semaglutide: other,Female,Under 18,17
+semaglutide: other,Male,18 to 29,12
+semaglutide: other,Male,30 to 44,70
+semaglutide: other,Male,45 to 64,311
+semaglutide: other,Male,65 and over,376
+semaglutide: other,Male,Not reported,366
+semaglutide: other,Male,Under 18,6
+semaglutide: other,Not reported,18 to 29,12
+semaglutide: other,Not reported,30 to 44,86
+semaglutide: other,Not reported,45 to 64,380
+semaglutide: other,Not reported,65 and over,210
+semaglutide: other,Not reported,Not reported,175
+semaglutide: type 2 diabetes,Female,18 to 29,319
+semaglutide: type 2 diabetes,Female,30 to 44,1718
+semaglutide: type 2 diabetes,Female,45 to 64,7280
+semaglutide: type 2 diabetes,Female,65 and over,8108
+semaglutide: type 2 diabetes,Female,Not reported,15014
+semaglutide: type 2 diabetes,Female,Under 18,38
+semaglutide: type 2 diabetes,Male,18 to 29,93
+semaglutide: type 2 diabetes,Male,30 to 44,773
+semaglutide: type 2 diabetes,Male,45 to 64,4611
+semaglutide: type 2 diabetes,Male,65 and over,5861
+semaglutide: type 2 diabetes,Male,Not reported,8143
+semaglutide: type 2 diabetes,Male,Under 18,23
+semaglutide: type 2 diabetes,Not reported,18 to 29,33
+semaglutide: type 2 diabetes,Not reported,30 to 44,259
+semaglutide: type 2 diabetes,Not reported,45 to 64,1236
+semaglutide: type 2 diabetes,Not reported,65 and over,808
+semaglutide: type 2 diabetes,Not reported,Not reported,3642
+semaglutide: type 2 diabetes,Not reported,Under 18,2
+semaglutide: unknown,Female,18 to 29,34
+semaglutide: unknown,Female,30 to 44,141
+semaglutide: unknown,Female,45 to 64,350
+semaglutide: unknown,Female,65 and over,134
+semaglutide: unknown,Female,Not reported,465
+semaglutide: unknown,Female,Under 18,4
+semaglutide: unknown,Male,18 to 29,7
+semaglutide: unknown,Male,30 to 44,36
+semaglutide: unknown,Male,45 to 64,151
+semaglutide: unknown,Male,65 and over,177
+semaglutide: unknown,Male,Not reported,132
+semaglutide: unknown,Male,Under 18,4
+semaglutide: unknown,Not reported,18 to 29,3
+semaglutide: unknown,Not reported,30 to 44,19
+semaglutide: unknown,Not reported,45 to 64,18
+semaglutide: unknown,Not reported,65 and over,14
+semaglutide: unknown,Not reported,Not reported,279
+semaglutide: weight management,Female,18 to 29,886
+semaglutide: weight management,Female,30 to 44,3119
+semaglutide: weight management,Female,45 to 64,6173
+semaglutide: weight management,Female,65 and over,3186
+semaglutide: weight management,Female,Not reported,9155
+semaglutide: weight management,Female,Under 18,122
+semaglutide: weight management,Male,18 to 29,164
+semaglutide: weight management,Male,30 to 44,767
+semaglutide: weight management,Male,45 to 64,1842
+semaglutide: weight management,Male,65 and over,1264
+semaglutide: weight management,Male,Not reported,2363
+semaglutide: weight management,Male,Under 18,50
+semaglutide: weight management,Not reported,18 to 29,68
+semaglutide: weight management,Not reported,30 to 44,301
+semaglutide: weight management,Not reported,45 to 64,864
+semaglutide: weight management,Not reported,65 and over,431
+semaglutide: weight management,Not reported,Not reported,3058
+semaglutide: weight management,Not reported,Under 18,12
+tirzepatide,Female,18 to 29,3524
+tirzepatide,Female,30 to 44,16743
+tirzepatide,Female,45 to 64,38748
+tirzepatide,Female,65 and over,20683
+tirzepatide,Female,Not reported,26653
+tirzepatide,Female,Under 18,65
+tirzepatide,Male,18 to 29,658
+tirzepatide,Male,30 to 44,4111
+tirzepatide,Male,45 to 64,12285
+tirzepatide,Male,65 and over,8319
+tirzepatide,Male,Not reported,7915
+tirzepatide,Male,Under 18,11
+tirzepatide,Not reported,18 to 29,396
+tirzepatide,Not reported,30 to 44,1801
+tirzepatide,Not reported,45 to 64,4598
+tirzepatide,Not reported,65 and over,2695
+tirzepatide,Not reported,Not reported,23373
+tirzepatide,Not reported,Under 18,19
+tirzepatide: heart failure or kidney disease,Female,30 to 44,3
+tirzepatide: heart failure or kidney disease,Female,45 to 64,16
+tirzepatide: heart failure or kidney disease,Female,65 and over,23
+tirzepatide: heart failure or kidney disease,Female,Not reported,11
+tirzepatide: heart failure or kidney disease,Male,45 to 64,8
+tirzepatide: heart failure or kidney disease,Male,65 and over,12
+tirzepatide: heart failure or kidney disease,Male,Not reported,1
+tirzepatide: heart failure or kidney disease,Not reported,45 to 64,1
+tirzepatide: heart failure or kidney disease,Not reported,65 and over,3
+tirzepatide: heart failure or kidney disease,Not reported,Not reported,3
+tirzepatide: other,Female,18 to 29,295
+tirzepatide: other,Female,30 to 44,1198
+tirzepatide: other,Female,45 to 64,2432
+tirzepatide: other,Female,65 and over,1327
+tirzepatide: other,Female,Not reported,693
+tirzepatide: other,Female,Under 18,6
+tirzepatide: other,Male,18 to 29,39
+tirzepatide: other,Male,30 to 44,275
+tirzepatide: other,Male,45 to 64,597
+tirzepatide: other,Male,65 and over,531
+tirzepatide: other,Male,Not reported,201
+tirzepatide: other,Male,Under 18,1
+tirzepatide: other,Not reported,18 to 29,23
+tirzepatide: other,Not reported,30 to 44,122
+tirzepatide: other,Not reported,45 to 64,278
+tirzepatide: other,Not reported,65 and over,212
+tirzepatide: other,Not reported,Not reported,178
+tirzepatide: type 2 diabetes,Female,18 to 29,1267
+tirzepatide: type 2 diabetes,Female,30 to 44,7120
+tirzepatide: type 2 diabetes,Female,45 to 64,17826
+tirzepatide: type 2 diabetes,Female,65 and over,8933
+tirzepatide: type 2 diabetes,Female,Not reported,12433
+tirzepatide: type 2 diabetes,Female,Under 18,25
+tirzepatide: type 2 diabetes,Male,18 to 29,237
+tirzepatide: type 2 diabetes,Male,30 to 44,1856
+tirzepatide: type 2 diabetes,Male,45 to 64,7237
+tirzepatide: type 2 diabetes,Male,65 and over,5013
+tirzepatide: type 2 diabetes,Male,Not reported,4566
+tirzepatide: type 2 diabetes,Male,Under 18,3
+tirzepatide: type 2 diabetes,Not reported,18 to 29,134
+tirzepatide: type 2 diabetes,Not reported,30 to 44,686
+tirzepatide: type 2 diabetes,Not reported,45 to 64,2245
+tirzepatide: type 2 diabetes,Not reported,65 and over,1430
+tirzepatide: type 2 diabetes,Not reported,Not reported,11454
+tirzepatide: type 2 diabetes,Not reported,Under 18,6
+tirzepatide: unknown,Female,18 to 29,36
+tirzepatide: unknown,Female,30 to 44,102
+tirzepatide: unknown,Female,45 to 64,228
+tirzepatide: unknown,Female,65 and over,99
+tirzepatide: unknown,Female,Not reported,248
+tirzepatide: unknown,Female,Under 18,2
+tirzepatide: unknown,Male,18 to 29,9
+tirzepatide: unknown,Male,30 to 44,30
+tirzepatide: unknown,Male,45 to 64,105
+tirzepatide: unknown,Male,65 and over,75
+tirzepatide: unknown,Male,Not reported,52
+tirzepatide: unknown,Male,Under 18,2
+tirzepatide: unknown,Not reported,18 to 29,4
+tirzepatide: unknown,Not reported,30 to 44,13
+tirzepatide: unknown,Not reported,45 to 64,30
+tirzepatide: unknown,Not reported,65 and over,13
+tirzepatide: unknown,Not reported,Not reported,316
+tirzepatide: unknown,Not reported,Under 18,1
+tirzepatide: weight management,Female,18 to 29,2265
+tirzepatide: weight management,Female,30 to 44,9818
+tirzepatide: weight management,Female,45 to 64,21384
+tirzepatide: weight management,Female,65 and over,11921
+tirzepatide: weight management,Female,Not reported,14022
+tirzepatide: weight management,Female,Under 18,41
+tirzepatide: weight management,Male,18 to 29,426
+tirzepatide: weight management,Male,30 to 44,2271
+tirzepatide: weight management,Male,45 to 64,5141
+tirzepatide: weight management,Male,65 and over,3372
+tirzepatide: weight management,Male,Not reported,3333
+tirzepatide: weight management,Male,Under 18,7
+tirzepatide: weight management,Not reported,18 to 29,257
+tirzepatide: weight management,Not reported,30 to 44,1113
+tirzepatide: weight management,Not reported,45 to 64,2410
+tirzepatide: weight management,Not reported,65 and over,1280
+tirzepatide: weight management,Not reported,Not reported,11614
+tirzepatide: weight management,Not reported,Under 18,12

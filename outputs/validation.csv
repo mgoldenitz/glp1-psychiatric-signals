@@ -1,0 +1,23 @@
+kind,exposure,background,reaction,expected_signal,flagged,passed,reports,best_term,ror,ror_lo,ror_hi,source
+Positive,GLP-1 RA (any),All FAERS,Nausea,True,True,True,40486,Nausea,4.003363928399975,3.959953003377552,4.04725074503265,GLP-1 RA labels: most common adverse reaction
+Positive,GLP-1 RA (any),All FAERS,Vomiting,True,True,True,22464,Vomiting,3.5714198571853504,3.521031346113268,3.6225294643791317,GLP-1 RA labels: common adverse reaction
+Positive,GLP-1 RA (any),All FAERS,Decreased appetite,True,True,True,11526,Decreased appetite,3.2187862353080026,3.156742776227124,3.2820491129755682,GLP-1 RA labels: common adverse reaction
+Positive,GLP-1 RA (any),All FAERS,Pancreatitis / Pancreatitis acute,True,True,True,5625,Pancreatitis,8.480732435202476,8.202541062730077,8.768358742425733,GLP-1 RA labels: warnings (acute pancreatitis)
+Positive,GLP-1 RA (any),All FAERS,Cholelithiasis / Cholecystitis / Cholecystitis acute / Cholecystitis chronic,True,True,True,3076,Cholelithiasis,5.67767967734329,5.4102725336297794,5.958303637781751,GLP-1 RA labels: warnings (gallbladder disease)
+Positive,GLP-1 RA (any),All FAERS,Injection site pain / Injection site erythema / Injection site reaction / Injection site pruritus / Injection site swelling,True,True,True,43457,Injection site pain,6.309378415710476,6.223079091597118,6.396874506445761,Injectable GLP-1 RA labels: injection site reactions
+Positive,semaglutide,All FAERS,Nausea,True,True,True,13927,Nausea,5.305321502102461,5.208808225824226,5.403623059325995,Ozempic and Wegovy labels
+Positive,liraglutide,All FAERS,Nausea,True,True,True,1577,Nausea,4.035913330447046,3.828092924681982,4.255015939100627,Victoza and Saxenda labels
+Positive,tirzepatide,All FAERS,Nausea,True,True,True,19200,Nausea,3.6540545813475247,3.5983466574813026,3.7106249492962347,Mounjaro and Zepbound labels
+Positive,SGLT2 inhibitor (any),All FAERS,Diabetic ketoacidosis / Euglycaemic diabetic ketoacidosis / Ketoacidosis,True,True,True,10204,Euglycaemic diabetic ketoacidosis,764.8942059845066,701.767632056985,833.6992469056487,SGLT2 inhibitor labels: warnings (ketoacidosis)
+Positive,SGLT2 inhibitor (any),All FAERS,Genital infection fungal / Vulvovaginal mycotic infection / Genital candidiasis / Vulvovaginal candidiasis / Balanoposthitis / Genital infection,True,True,True,753,Genital infection fungal,132.4003972399674,106.79179756261969,164.14992152390874,SGLT2 inhibitor labels: genital mycotic infections
+Positive,SGLT2 inhibitor (any),All FAERS,Fournier's gangrene,True,True,True,1979,Fournier's gangrene,613.6897030474395,553.8477080486039,679.9974905617992,SGLT2 inhibitor labels: warnings (necrotising fasciitis of the perineum)
+Comparator check,GLP-1 RA (any),SGLT2 inhibitors,Nausea,True,True,True,40486,Nausea,4.212809199043788,4.03889897792651,4.394207788940367,GI effects are GLP-1 specific
+Comparator check,GLP-1 RA (any),SGLT2 inhibitors,Diabetic ketoacidosis / Euglycaemic diabetic ketoacidosis / Ketoacidosis,False,False,True,1653,Euglycaemic diabetic ketoacidosis,0.02724388017591901,0.024510220517034192,0.030282428773906623,Ketoacidosis is an SGLT2 effect
+Negative,GLP-1 RA (any),All FAERS,Seasonal allergy,False,False,True,165,Seasonal allergy,0.5404086504197836,0.46330181040046725,0.6303483018900747,Negative control (picked by report count rule)
+Negative,GLP-1 RA (any),All FAERS,Ligament sprain,False,False,True,94,Ligament sprain,0.5294196195815735,0.4317627666844554,0.6491646691775496,Negative control (picked by report count rule)
+Negative,GLP-1 RA (any),All FAERS,Sunburn,False,True,False,155,Sunburn,1.696462548443794,1.4431543751381737,1.9942323758654457,Negative control (picked by report count rule)
+Negative,GLP-1 RA (any),All FAERS,Rotator cuff syndrome,False,False,True,137,Rotator cuff syndrome,0.7933230395753471,0.6695557440960344,0.9399687041304785,Negative control (picked by report count rule)
+Negative (SGLT2 calibration),GLP-1 RA (any),SGLT2 inhibitors,Seasonal allergy,False,False,True,165,Seasonal allergy,1.2376787278755361,0.8387368358176016,1.8263757689172644,Same negative control against the SGLT2 background
+Negative (SGLT2 calibration),GLP-1 RA (any),SGLT2 inhibitors,Ligament sprain,False,False,True,94,Ligament sprain,1.1132481764746205,0.6799150843517329,1.8227592400096588,Same negative control against the SGLT2 background
+Negative (SGLT2 calibration),GLP-1 RA (any),SGLT2 inhibitors,Sunburn,False,True,False,155,Sunburn,3.171588163213889,1.72049330566441,5.846562403887955,Same negative control against the SGLT2 background
+Negative (SGLT2 calibration),GLP-1 RA (any),SGLT2 inhibitors,Rotator cuff syndrome,False,False,True,137,Rotator cuff syndrome,1.1857134425885822,0.7795756468105919,1.8034380289932954,Same negative control against the SGLT2 background

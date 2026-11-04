@@ -1,0 +1,66 @@
+exposure,drug,group,subgroup
+GLP-1 RA (any),GLP-1 RA (any),GLP-1 RA,drug class
+SGLT2 inhibitor (any),SGLT2 inhibitor (any),SGLT2 inhibitor,drug class
+bexagliflozin,bexagliflozin,SGLT2 inhibitor,all uses
+bexagliflozin: type 2 diabetes,bexagliflozin,SGLT2 inhibitor,type 2 diabetes
+bexagliflozin: unknown,bexagliflozin,SGLT2 inhibitor,unknown
+canagliflozin,canagliflozin,SGLT2 inhibitor,all uses
+canagliflozin: heart failure or kidney disease,canagliflozin,SGLT2 inhibitor,heart failure or kidney disease
+canagliflozin: other,canagliflozin,SGLT2 inhibitor,other
+canagliflozin: type 2 diabetes,canagliflozin,SGLT2 inhibitor,type 2 diabetes
+canagliflozin: unknown,canagliflozin,SGLT2 inhibitor,unknown
+canagliflozin: weight management,canagliflozin,SGLT2 inhibitor,weight management
+dapagliflozin,dapagliflozin,SGLT2 inhibitor,all uses
+dapagliflozin: heart failure or kidney disease,dapagliflozin,SGLT2 inhibitor,heart failure or kidney disease
+dapagliflozin: other,dapagliflozin,SGLT2 inhibitor,other
+dapagliflozin: type 2 diabetes,dapagliflozin,SGLT2 inhibitor,type 2 diabetes
+dapagliflozin: unknown,dapagliflozin,SGLT2 inhibitor,unknown
+dapagliflozin: weight management,dapagliflozin,SGLT2 inhibitor,weight management
+dulaglutide,dulaglutide,Other GLP-1 RA,all uses
+dulaglutide: heart failure or kidney disease,dulaglutide,Other GLP-1 RA,heart failure or kidney disease
+dulaglutide: other,dulaglutide,Other GLP-1 RA,other
+dulaglutide: type 2 diabetes,dulaglutide,Other GLP-1 RA,type 2 diabetes
+dulaglutide: unknown,dulaglutide,Other GLP-1 RA,unknown
+dulaglutide: weight management,dulaglutide,Other GLP-1 RA,weight management
+empagliflozin,empagliflozin,SGLT2 inhibitor,all uses
+empagliflozin: heart failure or kidney disease,empagliflozin,SGLT2 inhibitor,heart failure or kidney disease
+empagliflozin: other,empagliflozin,SGLT2 inhibitor,other
+empagliflozin: type 2 diabetes,empagliflozin,SGLT2 inhibitor,type 2 diabetes
+empagliflozin: unknown,empagliflozin,SGLT2 inhibitor,unknown
+empagliflozin: weight management,empagliflozin,SGLT2 inhibitor,weight management
+ertugliflozin,ertugliflozin,SGLT2 inhibitor,all uses
+ertugliflozin: heart failure or kidney disease,ertugliflozin,SGLT2 inhibitor,heart failure or kidney disease
+ertugliflozin: other,ertugliflozin,SGLT2 inhibitor,other
+ertugliflozin: type 2 diabetes,ertugliflozin,SGLT2 inhibitor,type 2 diabetes
+ertugliflozin: unknown,ertugliflozin,SGLT2 inhibitor,unknown
+ertugliflozin: weight management,ertugliflozin,SGLT2 inhibitor,weight management
+exenatide,exenatide,Other GLP-1 RA,all uses
+exenatide: heart failure or kidney disease,exenatide,Other GLP-1 RA,heart failure or kidney disease
+exenatide: other,exenatide,Other GLP-1 RA,other
+exenatide: type 2 diabetes,exenatide,Other GLP-1 RA,type 2 diabetes
+exenatide: unknown,exenatide,Other GLP-1 RA,unknown
+exenatide: weight management,exenatide,Other GLP-1 RA,weight management
+liraglutide,liraglutide,GLP-1 RA,all uses
+liraglutide: heart failure or kidney disease,liraglutide,GLP-1 RA,heart failure or kidney disease
+liraglutide: other,liraglutide,GLP-1 RA,other
+liraglutide: type 2 diabetes,liraglutide,GLP-1 RA,type 2 diabetes
+liraglutide: unknown,liraglutide,GLP-1 RA,unknown
+liraglutide: weight management,liraglutide,GLP-1 RA,weight management
+lixisenatide,lixisenatide,Other GLP-1 RA,all uses
+lixisenatide: heart failure or kidney disease,lixisenatide,Other GLP-1 RA,heart failure or kidney disease
+lixisenatide: other,lixisenatide,Other GLP-1 RA,other
+lixisenatide: type 2 diabetes,lixisenatide,Other GLP-1 RA,type 2 diabetes
+lixisenatide: unknown,lixisenatide,Other GLP-1 RA,unknown
+lixisenatide: weight management,lixisenatide,Other GLP-1 RA,weight management
+semaglutide,semaglutide,GLP-1 RA,all uses
+semaglutide: heart failure or kidney disease,semaglutide,GLP-1 RA,heart failure or kidney disease
+semaglutide: other,semaglutide,GLP-1 RA,other
+semaglutide: type 2 diabetes,semaglutide,GLP-1 RA,type 2 diabetes
+semaglutide: unknown,semaglutide,GLP-1 RA,unknown
+semaglutide: weight management,semaglutide,GLP-1 RA,weight management
+tirzepatide,tirzepatide,GLP-1 RA,all uses
+tirzepatide: heart failure or kidney disease,tirzepatide,GLP-1 RA,heart failure or kidney disease
+tirzepatide: other,tirzepatide,GLP-1 RA,other
+tirzepatide: type 2 diabetes,tirzepatide,GLP-1 RA,type 2 diabetes
+tirzepatide: unknown,tirzepatide,GLP-1 RA,unknown
+tirzepatide: weight management,tirzepatide,GLP-1 RA,weight management
