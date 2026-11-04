@@ -30,7 +30,7 @@ Backgrounds: all other reports; SGLT2 inhibitors (empagliflozin, dapagliflozin, 
 
 Outcomes: three groups of MedDRA preferred terms written before any data were loaded (suicidal and self-injurious behaviour, depression, anxiety; listed in `scripts/common.py`), plus each term on its own. MedDRA's Standardised MedDRA Queries need a licence, so the groups are an approximation.
 
-Notoriety bias: the psychiatric results are repeated for reports first received before July 2023 and from July 2023 onward, with the background limited to the same period.
+Notoriety bias: the psychiatric results are repeated for reports first received before July 2023 and from July 2023 onward, with the background limited to the same period. Reporter type: the FAERS psychiatric results are also repeated within health-professional reports and within consumer reports (added after the first run, when the depression result raised the question).
 
 Validation, run before any psychiatric result is read: label reactions as positive controls (nausea, vomiting, decreased appetite, pancreatitis, gallbladder disease and injection site reactions for GLP-1 drugs; ketoacidosis, genital fungal infection and Fournier's gangrene for SGLT2 inhibitors), comparator checks (nausea should be flagged against SGLT2 inhibitors; ketoacidosis should not), and four negative controls picked from a fixed candidate list by a report-count rule.
 
@@ -67,7 +67,7 @@ Steps: `01_download_faers.py` (only quarters not already in `~/ssx_data/raw/faer
 
 ## Outputs
 
-`outputs/psych_signals.csv` is the main Tableau source (psychiatric terms and groups, both databases, all backgrounds and periods). `signals.csv` and `cv_signals.csv` hold every drug-reaction pair with at least 3 reports. Also `validation.csv`, `drugs.csv`, `term_groups.csv`, `reports_by_quarter.csv`, `reporters.csv`, `demographics.csv`, `outcomes.csv`, `cv_reports_by_year.csv`, `pt_soc.csv`, `data_summary.csv`.
+`outputs/psych_signals.csv` is the main Tableau source; `TABLEAU_STEPS.md` has the dashboard build steps (psychiatric terms and groups, both databases, all backgrounds and subsets). `signals.csv` and `cv_signals.csv` hold every drug-reaction pair with at least 3 reports. Also `validation.csv`, `drugs.csv`, `term_groups.csv`, `reports_by_quarter.csv`, `reporters.csv`, `demographics.csv`, `outcomes.csv`, `cv_reports_by_year.csv`, `pt_soc.csv`, `data_summary.csv`.
 
 ## Limitations
 

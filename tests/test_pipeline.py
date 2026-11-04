@@ -225,6 +225,16 @@ def test_periods(db):
     assert set(other.str.upper()) <= common.target_terms()
 
 
+def test_reporter_subsets(db):
+    # Health professionals filed 102, 211, 251, 311 (MD) and 221 (PH); consumers 201, 231, 241, 301.
+    r = row(db, "GLP-1 RA (any)", "All FAERS", SI, "Consumer reports")
+    assert (r.a, r.b, r.c, r.d) == (2, 1, 0, 1)
+    r = row(db, "semaglutide", "All FAERS", "Group: Depression", "Consumer reports")
+    assert (r.a, r.b, r.c, r.d) == (1, 1, 0, 2)
+    hp = pd.read_sql("SELECT * FROM signals WHERE period='Health professional reports' AND pt=?", db, params=(SI,))
+    assert set(hp["exposure"]) == set()          # the only HP suicidality report (251) has no study drug
+
+
 def test_stats_known_values():
     df = pd.DataFrame({"a": [20], "b": [80], "c": [100], "d": [9800]})
     out = common.stats(df).iloc[0]

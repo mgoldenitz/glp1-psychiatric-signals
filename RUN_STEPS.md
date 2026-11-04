@@ -14,4 +14,6 @@ The pipeline reads the Safety Signal Explorer downloads in `~/ssx_data/raw/faers
 
 6. Commit the outputs: `git add outputs && git commit -m "Update outputs" && git push`.
 
+To rerun only the signal steps after a code change (about 10 minutes, no reload): `git pull && for s in 04_signals 05_validate 06_canada_vigilance 07_export; do ~/brainenv/bin/python scripts/$s.py || break; done 2>&1 | tee ~/glp1_data/rerun_log.txt`.
+
 If `~/ssx_data` was moved or deleted, set the folders first: `export GLP_FAERS_RAW=/path/to/faers/zips GLP_CV_RAW=/path/to/canada_vigilance`.

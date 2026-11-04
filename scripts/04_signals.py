@@ -19,7 +19,9 @@ SGLT2 inhibitors themselves.
 Periods: "All years" covers every reaction term. "Before July 2023" and
 "July 2023 onward" cover the psychiatric terms and term groups only, with the
 background limited to the same period, to show how much of any signal comes
-after EMA's review and the media coverage that followed.
+after EMA's review and the media coverage that followed. "Health professional
+reports" and "Consumer reports" repeat the psychiatric terms within each
+reporter type (see SUBSETS below).
 
 Measures (same as Safety Signal Explorer):
     PRR with 95% CI, chi-squared with Yates correction
@@ -36,7 +38,7 @@ import argparse
 
 import pandas as pd
 
-from common import (COMPARATORS, OUTPUTS, PERIODS, base_drug, connect, stats, target_terms,
+from common import (COMPARATORS, OUTPUTS, base_drug, connect, stats, target_terms,
                     term_category)
 
 ALL = "All FAERS"
@@ -56,18 +58,31 @@ def sql_list(items):
     return ", ".join("'" + str(i).replace("'", "''") + "'" for i in items) or "''"
 
 
+# Subsets of reports. The "period" column of the output holds the subset name.
+# The reporter subsets (added 4 November 2026, after the first run) test
+# whether the psychiatric results depend on who filed the report: consumers
+# filed most GLP-1 reports, physicians a larger share of SGLT2 reports.
+# Reporter type is FAERS occp_cod (MD physician, PH pharmacist, OT and HP
+# other health professional, CN consumer).
+SUBSETS = {
+    "All years": None,
+    "Before July 2023": "period = 'Before July 2023'",
+    "July 2023 onward": "period = 'July 2023 onward'",
+    "Health professional reports": "occp_cod IN ('MD', 'PH', 'OT', 'HP')",
+    "Consumer reports": "occp_cod = 'CN'",
+}
+
+
 def counts(con, period, only_targets):
-    """2 x 2 tables for one period. Returns a frame with exposure, background, pt_id, a, b, c, d."""
+    """2 x 2 tables for one subset of reports. Returns exposure, background, pt_id, a, b, c, d."""
     q = lambda s: pd.read_sql(s, con)
     # Real terms (reac) and term groups (reac_group) have different pt_ids, so
     # their counts are computed separately and stacked. This keeps SQLite on
     # the primary-key index instead of joining through a UNION ALL view.
     qr = lambda s: pd.concat([q(s.format(R=src)) for src in sources], ignore_index=True)
     con.execute("DROP TABLE IF EXISTS temp.scope")
-    if period == "All years":
-        con.execute("CREATE TEMP TABLE scope AS SELECT primaryid FROM report")
-    else:
-        con.execute("CREATE TEMP TABLE scope AS SELECT primaryid FROM report WHERE period = ?", (period,))
+    where = SUBSETS[period]
+    con.execute("CREATE TEMP TABLE scope AS SELECT primaryid FROM report" + (f" WHERE {where}" if where else ""))
     con.execute("CREATE UNIQUE INDEX temp.ix_scope ON scope (primaryid)")
 
     con.execute("DROP TABLE IF EXISTS temp.rx")
@@ -132,7 +147,7 @@ def counts(con, period, only_targets):
 
 
 def build(con):
-    parts = [counts(con, p, only_targets=(p != "All years")) for p in PERIODS]
+    parts = [counts(con, p, only_targets=(p != "All years")) for p in SUBSETS]
     sig = stats(pd.concat(parts, ignore_index=True))
     sig = sig.merge(pd.read_sql("SELECT pt_id, pt FROM pt", con), on="pt_id")
     sig["term_category"] = sig["pt"].map(term_category)
