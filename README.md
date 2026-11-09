@@ -4,6 +4,8 @@ Status: first full run 3 November 2026. Findings below.
 
 Interactive dashboard: [GLP-1 Drugs and Psychiatric Adverse Event Reports on Tableau Public](https://public.tableau.com/app/profile/michael.goldenitz/viz/GLP-1DrugsandPsychiatricAdverseEventReports/GLP-1psychiatricsignals)
 
+![Tableau dashboard: reporting odds ratios before and after July 2023, and reports by quarter](images/dashboard.png)
+
 ## Question
 
 Are suicidal thoughts and behaviour, depression or anxiety reported more often than expected for semaglutide (Ozempic, Wegovy, Rybelsus), liraglutide (Victoza, Saxenda) and tirzepatide (Mounjaro, Zepbound), compared with SGLT2 inhibitors and with all other reports, in FDA FAERS and Health Canada's Canada Vigilance database? Do differences appear after July 2023, when EMA began its review and the question reached the news?
@@ -51,6 +53,10 @@ All figures are reporting odds ratios (ROR) with 95% confidence intervals, from 
 **Liraglutide:** Already had a suicidality signal against SGLT2 inhibitors before July 2023 (2.36, 1.82 to 3.05; 83 reports), led by the weight-management subgroup. One possible reason is that the Saxenda label carried a suicidal behaviour and ideation warning, until the FDA asked for its removal in January 2026; in contrast, the diabetes GLP-1 labels has never had such a label. 
  
 **Depression and anxiety:** Semaglutide-depression reports are raised against SGLT2 inhibitors even before July 2023 (2.53, 2.10 to 3.03), above the 1.1 to 1.2 range the negative controls give. Most GLP-1 reports come from consumers, while SGLT2 reports more often from physicians, so the analysis was repeated within each reporter type. The depression signal holds in both: 3.19 (2.74 to 3.72; 483 reports) in health-professional reports and 4.14 (3.48 to 4.92; 1,108 reports) in consumer reports. Reporter type does not explain it. Within health-professional reports the weight-management subgroup is higher (3.87, 3.24 to 4.62) than the type 2 diabetes subgroup (2.03, 1.69 to 2.43). The two report populations also differ by sex (60% of semaglutide reports are for women against 39% for SGLT2 inhibitors), which is not adjusted for. The depression signal survives the comparator and the reporter split; this design cannot separate a drug effect from differences between people treated for weight and people treated for diabetes.
+
+![Reporting odds ratio against SGLT2 inhibitors by reporter type](images/who_reported.png)
+
+![Reporting odds ratio by indication against SGLT2 inhibitors given for diabetes](images/by_indication.png)
 
 **Canada Vigilance:** Semaglutide's suicidality group is raised against all Canadian reports (2.87, 2.24 to 3.69; 64 reports), including before July 2023 (1.75, 1.01 to 3.03; 13 reports). Canada Vigilance has only 2,368 SGLT2 inhibitor reports and 13 of them fall in the suicidality group, so the SGLT2 comparison is too unstable to use for Canada.
 
