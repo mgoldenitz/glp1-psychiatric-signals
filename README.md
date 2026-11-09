@@ -10,13 +10,13 @@ Are suicidal thoughts and behaviour, depression or anxiety reported more often t
 
 ## Reference results
 
-EMA's Pharmacovigilance Risk Assessment Committee (PRAC) opened a review in July 2023 after the Icelandic Medicines Agency reported cases of suicidal thoughts and self-injury with liraglutide and semaglutide. In April 2024 PRAC concluded that the evidence from non-clinical studies, clinical trials and post-marketing surveillance did not support a causal link and that no change to the product information was needed.
+**EMA's Pharmacovigilance Risk Assessment Committee (PRAC)** opened a review in July 2023 after the Icelandic Medicines Agency reported cases of suicidal thoughts and self-injury with liraglutide and semaglutide. In April 2024 PRAC concluded that the evidence from non-clinical studies, clinical trials and post-marketing surveillance did not support a causal link and that no change to the product information was needed.
 
-FDA's preliminary evaluation (Drug Safety Communication, 11 January 2024) found no evidence of a causal link in FAERS reports or trials, while noting it could not rule out a small risk. On 13 January 2026 FDA asked for the suicidal behaviour and ideation warning to be removed from the Saxenda, Wegovy and Zepbound labels, citing a meta-analysis of 91 placebo-controlled trials (107,910 patients) and a Sentinel cohort of 2,243,138 new users that compared GLP-1 receptor agonists with SGLT2 inhibitors and found no increased risk of intentional self-harm.
+**FDA's preliminary evaluation (Drug Safety Communication, 11 January 2024)** found no evidence of a causal link in FAERS reports or trials, while noting it could not rule out a small risk. On 13 January 2026 FDA asked for the suicidal behaviour and ideation warning to be removed from the Saxenda, Wegovy and Zepbound labels, citing a meta-analysis of 91 placebo-controlled trials (107,910 patients) and a Sentinel cohort of 2,243,138 new users that compared GLP-1 receptor agonists with SGLT2 inhibitors and found no increased risk of intentional self-harm.
 
-A disproportionality study of the WHO database (Schoretsanitis et al., JAMA Network Open 2024;7(8), doi:10.1001/jamanetworkopen.2024.23385) found a reporting signal for semaglutide and suicidal ideation (ROR 1.45, 95% CI 1.18 to 1.77) against all other drugs, and larger RORs against dapagliflozin, metformin and orlistat.
+**A disproportionality study of the WHO database** (Schoretsanitis et al., JAMA Network Open 2024;7(8), doi:10.1001/jamanetworkopen.2024.23385) found a reporting signal for semaglutide and suicidal ideation (ROR 1.45, 95% CI 1.18 to 1.77) against all other drugs, and larger RORs against dapagliflozin, metformin and orlistat.
 
-This project asks whether FAERS and Canada Vigilance show the same pattern, and whether the signal holds against an active comparator and outside the period of media attention.
+This project investigates whether FAERS and Canada Vigilance indicate a similar pattern, and whether the signal holds against an active comparator and outside the period of media attention.
 
 ## Data
 
