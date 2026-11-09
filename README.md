@@ -69,7 +69,7 @@ Steps: `01_download_faers.py` (only quarters not already in `~/ssx_data/raw/faer
 
 ## Outputs
 
-`outputs/psych_signals.csv` is the main Tableau source; `TABLEAU_STEPS.md` has the dashboard build steps (psychiatric terms and groups, both databases, all backgrounds and subsets). `signals.csv` and `cv_signals.csv` hold every drug-reaction pair with at least 3 reports. Also `validation.csv`, `drugs.csv`, `term_groups.csv`, `reports_by_quarter.csv`, `reporters.csv`, `demographics.csv`, `outcomes.csv`, `cv_reports_by_year.csv`, `pt_soc.csv`, `data_summary.csv`.
+`outputs/psych_signals.csv` is the main Tableau source (psychiatric terms and groups, both databases, all backgrounds and subsets); the workbook is `tableau/glp1_psych_signals.twbx`. `signals.csv` and `cv_signals.csv` hold every drug-reaction pair with at least 3 reports. Also `validation.csv`, `drugs.csv`, `term_groups.csv`, `reports_by_quarter.csv`, `reporters.csv`, `demographics.csv`, `outcomes.csv`, `cv_reports_by_year.csv`, `pt_soc.csv`, `data_summary.csv`.
 
 ## Limitations
 
