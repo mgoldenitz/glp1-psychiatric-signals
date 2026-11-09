@@ -1,6 +1,8 @@
 # GLP-1 drugs and psychiatric adverse event reports
 
-Status: first full run 3 November 2026. Findings below; the Tableau dashboard is not built yet.
+Status: first full run 3 November 2026. Findings below.
+
+Interactive dashboard: [GLP-1 Drugs and Psychiatric Adverse Event Reports on Tableau Public](https://public.tableau.com/app/profile/michael.goldenitz/viz/GLP-1DrugsandPsychiatricAdverseEventReports/GLP-1psychiatricsignals)
 
 ## Question
 
