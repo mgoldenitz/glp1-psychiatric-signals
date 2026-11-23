@@ -6,3 +6,7 @@ __pycache__/
 *.part
 .ipynb_checkpoints/
 *.docx
+glp1_data/
+*.local.twbx
+style-samples.md
+writing-style.md
