@@ -62,6 +62,20 @@ All figures are reporting odds ratios (ROR) with 95% confidence intervals, from 
 
 These results support EMA (April 2024) and FDA (January 2026) in finding no evidence that semaglutide causes suicidal acts. They differ from the WHO database study's ROR of 1.45 against all drugs, which covered reports to August 2023 and a different background database.
 
+## Diagrams
+
+![Pipeline workflow](images/diagram-workflow.svg)
+
+run_all.sh: the FAERS lane and the Canada Vigilance lane join at 07_export.py.
+
+![glp1.sqlite schema](images/diagram-erd.svg)
+
+The FAERS and Canada Vigilance tables and their keys.
+
+![Report funnel](images/diagram-funnel.svg)
+
+13,324,077 report versions (run_log.txt) to 9,273 GLP-1 RA reports with a psychiatric term. The sum of outputs/data_summary.csv is 13,324,281, 204 more than run_log.txt.
+
 ## Running it
 
 In WSL, from the repo folder:
