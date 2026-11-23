@@ -74,7 +74,7 @@ The FAERS and Canada Vigilance tables and their keys.
 
 ![Report funnel](images/diagram-funnel.svg)
 
-13,324,077 report versions (run_log.txt) to 9,273 GLP-1 RA reports with a psychiatric term. The sum of outputs/data_summary.csv is 13,324,281, 204 more than run_log.txt.
+13,324,077 report versions (run_log.txt) to 9,273 GLP-1 RA reports with a psychiatric term. The sum of outputs/data_summary.csv is 13,324,281. It is 204 more because 204 primaryids are in 2 quarterly files: data_summary.csv counts them in each file, but the demo table keeps 1 row per primaryid.
 
 ## Running it
 
