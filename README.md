@@ -87,6 +87,8 @@ bash run_all.sh ~/brainenv/bin/python
 
 Steps: `01_download_faers.py` (only quarters not already in `~/ssx_data/raw/faers`), `02_load_faers.py`, `03_deduplicate.py`, `04_signals.py`, `05_validate.py` (stops the run if a positive control fails), `06_canada_vigilance.py`, `07_export.py`. Set `GLP_DATA`, `GLP_FAERS_RAW` or `GLP_CV_RAW` to use other folders.
 
+Disk space: the raw files are shared with Safety Signal Explorer. The 31 FAERS quarterly zips use 2.0 GB and the unzipped Canada Vigilance extract uses 2.8 GB. The run writes 2.7 GB more to `~/glp1_data`. Keep these folders on a local disk, not in OneDrive, because SQLite builds fail there. All CSVs in `outputs/` are committed; the largest, `signals.csv`, is 32 MB.
+
 ## Outputs
 
 `outputs/psych_signals.csv` is the main Tableau source (psychiatric terms and groups, both databases, all backgrounds and subsets); the workbook is `tableau/glp1_psych_signals.twbx`. `signals.csv` and `cv_signals.csv` hold every drug-reaction pair with at least 3 reports. Also `validation.csv`, `drugs.csv`, `term_groups.csv`, `reports_by_quarter.csv`, `reporters.csv`, `demographics.csv`, `outcomes.csv`, `cv_reports_by_year.csv`, `pt_soc.csv`, `data_summary.csv`.
