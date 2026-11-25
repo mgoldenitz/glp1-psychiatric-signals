@@ -46,6 +46,10 @@ All figures are reporting odds ratios (ROR) with 95% confidence intervals, from 
 
 **Semaglutide and suicidality:** Against SGLT2 inhibitors, the suicidal and self-injurious behaviour group does not indicate a signal in reports received before July 2023 (ROR 1.10, 0.86 to 1.40; 101 reports), then suddenly indicates a signal from July 2023 onward (3.16, 2.67 to 3.73; 894 reports). Semaglutide reports in this group rose from 26 in 2023 Q2 to 93 in 2023 Q3, the same quarter EMA's review began. Over the same two periods the SGLT2 inhibitors' ROR for the group against all of FAERS stayed flat (0.39, then 0.34), so the rise belongs to the GLP-1 drugs; FAERS as a whole did not indicate the same pattern, which supports the explanation of stimulated reporting after publicity. The suicidality signal against SGLT2 inhibitors is also present within health-professional reports (3.16, 2.71 to 3.69; 466 reports, all years); this subset was not split by period.
 
+**Search interest:** US Google searches for Ozempic and Wegovy (both semaglutide) rose through 2022 and peaked in 2023 Q2. In 2023 Q3 the quarterly average fell by 17% (107 to 89), while semaglutide suicidality reports rose 3.6 times (26 to 93). If more use alone had caused the rise, searches would also have risen. This agrees with stimulated reporting after the July 2023 news. Google Trends values are relative (100 is the busiest month for any term in the request) and show public attention, not prescriptions. The values were fetched once on 25 November 2026 and are in `data/google_trends_us.csv`.
+
+![Semaglutide US search interest and FAERS suicidality reports by quarter](images/search_vs_reports.png)
+
 **Ideation and acts:** Suicidal ideation carries the group signal (semaglutide against SGLT2 inhibitors, all years: 6.07, 4.96 to 7.42; 735 reports), while completed suicide does not (0.75, 0.53 to 1.06; 58 reports). Suicide attempt is borderline (1.24, 0.91 to 1.70; 93 reports). Against all of FAERS, semaglutide's group ROR is below 1 (0.91, 0.85 to 0.97). That background includes reports for antidepressants and other psychiatric drugs.
 
 **Tirzepatide:** EMA's review did not cover this; the drug shows no suicidality signal against SGLT2 inhibitors given for diabetes (1.05, 0.86 to 1.29; 614 reports).
@@ -85,13 +89,13 @@ In WSL, from the repo folder:
 bash run_all.sh ~/brainenv/bin/python
 ```
 
-Steps: `01_download_faers.py` (only quarters not already in `~/ssx_data/raw/faers`), `02_load_faers.py`, `03_deduplicate.py`, `04_signals.py`, `05_validate.py` (stops the run if a positive control fails), `06_canada_vigilance.py`, `07_export.py`. Set `GLP_DATA`, `GLP_FAERS_RAW` or `GLP_CV_RAW` to use other folders.
+Steps: `01_download_faers.py` (only quarters not already in `~/ssx_data/raw/faers`), `02_load_faers.py`, `03_deduplicate.py`, `04_signals.py`, `05_validate.py` (stops the run if a positive control fails), `06_canada_vigilance.py`, `07_export.py`. `08_search_interest.py` makes the search interest chart from committed files only and needs no raw data. Set `GLP_DATA`, `GLP_FAERS_RAW` or `GLP_CV_RAW` to use other folders.
 
 Disk space: the raw files are shared with Safety Signal Explorer. The 31 FAERS quarterly zips use 2.0 GB and the unzipped Canada Vigilance extract uses 2.8 GB. The run writes 2.7 GB more to `~/glp1_data`. Keep these folders on a local disk, not in OneDrive, because SQLite builds fail there. All CSVs in `outputs/` are committed; the largest, `signals.csv`, is 32 MB.
 
 ## Outputs
 
-`outputs/psych_signals.csv` is the main Tableau source (psychiatric terms and groups, both databases, all backgrounds and subsets); the workbook is `tableau/glp1_psych_signals.twbx`. `signals.csv` and `cv_signals.csv` hold every drug-reaction pair with at least 3 reports. Also `validation.csv`, `drugs.csv`, `term_groups.csv`, `reports_by_quarter.csv`, `reporters.csv`, `demographics.csv`, `outcomes.csv`, `cv_reports_by_year.csv`, `pt_soc.csv`, `data_summary.csv`.
+`outputs/psych_signals.csv` is the main Tableau source (psychiatric terms and groups, both databases, all backgrounds and subsets); the workbook is `tableau/glp1_psych_signals.twbx`. `signals.csv` and `cv_signals.csv` hold every drug-reaction pair with at least 3 reports. Also `validation.csv`, `drugs.csv`, `term_groups.csv`, `reports_by_quarter.csv`, `reporters.csv`, `demographics.csv`, `outcomes.csv`, `cv_reports_by_year.csv`, `pt_soc.csv`, `data_summary.csv`, `search_vs_reports.csv`.
 
 ## Limitations
 
